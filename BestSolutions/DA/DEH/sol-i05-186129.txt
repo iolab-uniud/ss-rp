@@ -1,0 +1,2755 @@
+Order[1]: Slab 1269
+Order[2]: Slab 248
+Order[3]: Slab 173
+Order[4]: Slab 750
+Order[5]: Slab 1685
+Order[6]: Slab 608
+Order[7]: Slab 2096
+Order[8]: Slab 271
+Order[9]: Slab 1024
+Order[10]: Slab 1539
+Order[11]: Slab 572
+Order[12]: Slab 2267
+Order[13]: Slab 1774
+Order[14]: Slab 1455
+Order[15]: Slab 1910
+Order[16]: Slab 594
+Order[17]: Slab 840
+Order[18]: Slab 1129
+Order[19]: Slab 817
+Order[20]: Slab 2018
+Order[21]: Slab 1445
+Order[22]: Slab 1312
+Order[23]: Slab 1917
+Order[24]: Slab 1344
+Order[25]: Slab 1389
+Order[26]: Slab 2004
+Order[27]: Slab 1429
+Order[28]: Slab 1588
+Order[29]: Slab 1537
+Order[30]: Slab 1119
+Order[31]: Slab 1622
+Order[32]: Slab 2147
+Order[33]: Slab 108
+Order[34]: Slab 1842
+Order[35]: Slab 1759
+Order[36]: Slab 55
+Order[37]: Slab 912
+Order[38]: Slab 1768
+Order[39]: Slab 1936
+Order[40]: Slab 765
+Order[41]: Slab 1877
+Order[42]: Slab 1118
+Order[43]: Slab 1666
+Order[44]: Slab 907
+Order[45]: Slab 167
+Order[46]: Slab 931
+Order[47]: Slab 2264
+Order[48]: Slab 453
+Order[49]: Slab 1236
+Order[50]: Slab 2118
+Order[51]: Slab 579
+Order[52]: Slab 2260
+Order[53]: Slab 1061
+Order[54]: Slab 908
+Order[55]: Slab 615
+Order[56]: Slab 1146
+Order[57]: Slab 2131
+Order[58]: Slab 1558
+Order[59]: Slab 959
+Order[60]: Slab 1182
+Order[61]: Slab 434
+Order[62]: Slab 1683
+Order[63]: Slab 1213
+Order[64]: Slab 1348
+Order[65]: Slab 246
+Order[66]: Slab 733
+Order[67]: Slab 800
+Order[68]: Slab 1625
+Order[69]: Slab 1427
+Order[70]: Slab 249
+Order[71]: Slab 1918
+Order[72]: Slab 2142
+Order[73]: Slab 1630
+Order[74]: Slab 2022
+Order[75]: Slab 29
+Order[76]: Slab 1309
+Order[77]: Slab 1838
+Order[78]: Slab 1452
+Order[79]: Slab 1629
+Order[80]: Slab 484
+Order[81]: Slab 486
+Order[82]: Slab 2189
+Order[83]: Slab 1256
+Order[84]: Slab 2082
+Order[85]: Slab 707
+Order[86]: Slab 1922
+Order[87]: Slab 1245
+Order[88]: Slab 1914
+Order[89]: Slab 1987
+Order[90]: Slab 523
+Order[91]: Slab 546
+Order[92]: Slab 1966
+Order[93]: Slab 768
+Order[94]: Slab 606
+Order[95]: Slab 1962
+Order[96]: Slab 526
+Order[97]: Slab 593
+Order[98]: Slab 1342
+Order[99]: Slab 2182
+Order[100]: Slab 1282
+Order[101]: Slab 138
+Order[102]: Slab 1555
+Order[103]: Slab 1939
+Order[104]: Slab 849
+Order[105]: Slab 1006
+Order[106]: Slab 533
+Order[107]: Slab 1752
+Order[108]: Slab 1959
+Order[109]: Slab 1949
+Order[110]: Slab 227
+Order[111]: Slab 2235
+Order[112]: Slab 279
+Order[113]: Slab 895
+Order[114]: Slab 1064
+Order[115]: Slab 1745
+Order[116]: Slab 969
+Order[117]: Slab 2107
+Order[118]: Slab 1968
+Order[119]: Slab 1938
+Order[120]: Slab 960
+Order[121]: Slab 1559
+Order[122]: Slab 809
+Order[123]: Slab 811
+Order[124]: Slab 404
+Order[125]: Slab 1924
+Order[126]: Slab 2232
+Order[127]: Slab 1077
+Order[128]: Slab 170
+Order[129]: Slab 1836
+Order[130]: Slab 1463
+Order[131]: Slab 1791
+Order[132]: Slab 476
+Order[133]: Slab 1079
+Order[134]: Slab 1117
+Order[135]: Slab 2002
+Order[136]: Slab 1280
+Order[137]: Slab 937
+Order[138]: Slab 2253
+Order[139]: Slab 1376
+Order[140]: Slab 454
+Order[141]: Slab 1039
+Order[142]: Slab 633
+Order[143]: Slab 1699
+Order[144]: Slab 2167
+Order[145]: Slab 69
+Order[146]: Slab 920
+Order[147]: Slab 2185
+Order[148]: Slab 1466
+Order[149]: Slab 1085
+Order[150]: Slab 316
+Order[151]: Slab 101
+Order[152]: Slab 568
+Order[153]: Slab 662
+Order[154]: Slab 602
+Order[155]: Slab 1311
+Order[156]: Slab 1756
+Order[157]: Slab 2140
+Order[158]: Slab 2149
+Order[159]: Slab 761
+Order[160]: Slab 1871
+Order[161]: Slab 1366
+Order[162]: Slab 273
+Order[163]: Slab 2086
+Order[164]: Slab 379
+Order[165]: Slab 2000
+Order[166]: Slab 1892
+Order[167]: Slab 1763
+Order[168]: Slab 398
+Order[169]: Slab 1946
+Order[170]: Slab 1097
+Order[171]: Slab 278
+Order[172]: Slab 2063
+Order[173]: Slab 473
+Order[174]: Slab 341
+Order[175]: Slab 2219
+Order[176]: Slab 1484
+Order[177]: Slab 504
+Order[178]: Slab 1899
+Order[179]: Slab 1428
+Order[180]: Slab 1030
+Order[181]: Slab 674
+Order[182]: Slab 2072
+Order[183]: Slab 1041
+Order[184]: Slab 2012
+Order[185]: Slab 565
+Order[186]: Slab 1613
+Order[187]: Slab 2220
+Order[188]: Slab 2211
+Order[189]: Slab 1078
+Order[190]: Slab 1488
+Order[191]: Slab 1014
+Order[192]: Slab 198
+Order[193]: Slab 599
+Order[194]: Slab 1240
+Order[195]: Slab 1615
+Order[196]: Slab 1264
+Order[197]: Slab 1633
+Order[198]: Slab 2047
+Order[199]: Slab 1880
+Order[200]: Slab 559
+Order[201]: Slab 1860
+Order[202]: Slab 666
+Order[203]: Slab 358
+Order[204]: Slab 679
+Order[205]: Slab 1045
+Order[206]: Slab 1065
+Order[207]: Slab 1456
+Order[208]: Slab 103
+Order[209]: Slab 1518
+Order[210]: Slab 596
+Order[211]: Slab 1259
+Order[212]: Slab 122
+Order[213]: Slab 686
+Order[214]: Slab 1313
+Order[215]: Slab 1590
+Order[216]: Slab 610
+Order[217]: Slab 1379
+Order[218]: Slab 177
+Order[219]: Slab 898
+Order[220]: Slab 729
+Order[221]: Slab 701
+Order[222]: Slab 919
+Order[223]: Slab 621
+Order[224]: Slab 1695
+Order[225]: Slab 277
+Order[226]: Slab 2073
+Order[227]: Slab 902
+Order[228]: Slab 2075
+Order[229]: Slab 354
+Order[230]: Slab 1192
+Order[231]: Slab 1038
+Order[232]: Slab 561
+Order[233]: Slab 1893
+Order[234]: Slab 1347
+Order[235]: Slab 624
+Order[236]: Slab 1191
+Order[237]: Slab 1155
+Order[238]: Slab 1986
+Order[239]: Slab 1408
+Order[240]: Slab 45
+Order[241]: Slab 387
+Order[242]: Slab 1434
+Order[243]: Slab 1942
+Order[244]: Slab 1195
+Order[245]: Slab 740
+Order[246]: Slab 2029
+Order[247]: Slab 747
+Order[248]: Slab 1991
+Order[249]: Slab 2057
+Order[250]: Slab 483
+Order[251]: Slab 2130
+Order[252]: Slab 1706
+Order[253]: Slab 1328
+Order[254]: Slab 2243
+Order[255]: Slab 938
+Order[256]: Slab 118
+Order[257]: Slab 469
+Order[258]: Slab 926
+Order[259]: Slab 160
+Order[260]: Slab 519
+Order[261]: Slab 1501
+Order[262]: Slab 88
+Order[263]: Slab 338
+Order[264]: Slab 1544
+Order[265]: Slab 1032
+Order[266]: Slab 665
+Order[267]: Slab 918
+Order[268]: Slab 631
+Order[269]: Slab 1831
+Order[270]: Slab 1782
+Order[271]: Slab 1919
+Order[272]: Slab 87
+Order[273]: Slab 414
+Order[274]: Slab 831
+Order[275]: Slab 39
+Order[276]: Slab 502
+Order[277]: Slab 607
+Order[278]: Slab 348
+Order[279]: Slab 858
+Order[280]: Slab 732
+Order[281]: Slab 1000
+Order[282]: Slab 355
+Order[283]: Slab 245
+Order[284]: Slab 132
+Order[285]: Slab 1422
+Order[286]: Slab 1542
+Order[287]: Slab 1203
+Order[288]: Slab 1623
+Order[289]: Slab 1310
+Order[290]: Slab 940
+Order[291]: Slab 1593
+Order[292]: Slab 214
+Order[293]: Slab 1438
+Order[294]: Slab 1658
+Order[295]: Slab 1578
+Order[296]: Slab 117
+Order[297]: Slab 1826
+Order[298]: Slab 1008
+Order[299]: Slab 142
+Order[300]: Slab 1565
+Order[301]: Slab 629
+Order[302]: Slab 769
+Order[303]: Slab 827
+Order[304]: Slab 787
+Order[305]: Slab 374
+Order[306]: Slab 285
+Order[307]: Slab 516
+Order[308]: Slab 577
+Order[309]: Slab 905
+Order[310]: Slab 1522
+Order[311]: Slab 1724
+Order[312]: Slab 2
+Order[313]: Slab 1228
+Order[314]: Slab 1022
+Order[315]: Slab 1273
+Order[316]: Slab 1053
+Order[317]: Slab 2227
+Order[318]: Slab 1316
+Order[319]: Slab 1087
+Order[320]: Slab 971
+Order[321]: Slab 954
+Order[322]: Slab 640
+Order[323]: Slab 1343
+Order[324]: Slab 125
+Order[325]: Slab 884
+Order[326]: Slab 2224
+Order[327]: Slab 780
+Order[328]: Slab 1527
+Order[329]: Slab 413
+Order[330]: Slab 460
+Order[331]: Slab 1754
+Order[332]: Slab 156
+Order[333]: Slab 2151
+Order[334]: Slab 1999
+Order[335]: Slab 384
+Order[336]: Slab 250
+Order[337]: Slab 968
+Order[338]: Slab 1217
+Order[339]: Slab 865
+Order[340]: Slab 2025
+Order[341]: Slab 520
+Order[342]: Slab 1440
+Order[343]: Slab 372
+Order[344]: Slab 1059
+Order[345]: Slab 2192
+Order[346]: Slab 1384
+Order[347]: Slab 757
+Order[348]: Slab 1533
+Order[349]: Slab 203
+Order[350]: Slab 2125
+Order[351]: Slab 86
+Order[352]: Slab 152
+Order[353]: Slab 1166
+Order[354]: Slab 1696
+Order[355]: Slab 826
+Order[356]: Slab 1835
+Order[357]: Slab 1647
+Order[358]: Slab 804
+Order[359]: Slab 2214
+Order[360]: Slab 1187
+Order[361]: Slab 696
+Order[362]: Slab 408
+Order[363]: Slab 1277
+Order[364]: Slab 1907
+Order[365]: Slab 85
+Order[366]: Slab 191
+Order[367]: Slab 1218
+Order[368]: Slab 745
+Order[369]: Slab 98
+Order[370]: Slab 570
+Order[371]: Slab 1448
+Order[372]: Slab 1410
+Order[373]: Slab 11
+Order[374]: Slab 396
+Order[375]: Slab 275
+Order[376]: Slab 1018
+Order[377]: Slab 1687
+Order[378]: Slab 48
+Order[379]: Slab 410
+Order[380]: Slab 114
+Order[381]: Slab 2056
+Order[382]: Slab 1786
+Order[383]: Slab 1007
+Order[384]: Slab 1854
+Order[385]: Slab 1386
+Order[386]: Slab 1246
+Order[387]: Slab 184
+Order[388]: Slab 2184
+Order[389]: Slab 497
+Order[390]: Slab 1142
+Order[391]: Slab 910
+Order[392]: Slab 438
+Order[393]: Slab 869
+Order[394]: Slab 1904
+Order[395]: Slab 231
+Order[396]: Slab 1489
+Order[397]: Slab 1728
+Order[398]: Slab 1395
+Order[399]: Slab 2054
+Order[400]: Slab 228
+Order[401]: Slab 1654
+Order[402]: Slab 35
+Order[403]: Slab 1338
+Order[404]: Slab 1800
+Order[405]: Slab 296
+Order[406]: Slab 1850
+Order[407]: Slab 299
+Order[408]: Slab 595
+Order[409]: Slab 68
+Order[410]: Slab 1293
+Order[411]: Slab 754
+Order[412]: Slab 1560
+Order[413]: Slab 1810
+Order[414]: Slab 1116
+Order[415]: Slab 1308
+Order[416]: Slab 802
+Order[417]: Slab 266
+Order[418]: Slab 2210
+Order[419]: Slab 1767
+Order[420]: Slab 558
+Order[421]: Slab 208
+Order[422]: Slab 2076
+Order[423]: Slab 1354
+Order[424]: Slab 1874
+Order[425]: Slab 221
+Order[426]: Slab 1297
+Order[427]: Slab 949
+Order[428]: Slab 2171
+Order[429]: Slab 1500
+Order[430]: Slab 286
+Order[431]: Slab 367
+Order[432]: Slab 2231
+Order[433]: Slab 1598
+Order[434]: Slab 2132
+Order[435]: Slab 1124
+Order[436]: Slab 653
+Order[437]: Slab 1196
+Order[438]: Slab 1710
+Order[439]: Slab 990
+Order[440]: Slab 2093
+Order[441]: Slab 1721
+Order[442]: Slab 1844
+Order[443]: Slab 1690
+Order[444]: Slab 753
+Order[445]: Slab 1391
+Order[446]: Slab 2109
+Order[447]: Slab 661
+Order[448]: Slab 235
+Order[449]: Slab 2010
+Order[450]: Slab 1494
+Order[451]: Slab 1447
+Order[452]: Slab 166
+Order[453]: Slab 1716
+Order[454]: Slab 2234
+Order[455]: Slab 1540
+Order[456]: Slab 209
+Order[457]: Slab 1955
+Order[458]: Slab 2068
+Order[459]: Slab 2143
+Order[460]: Slab 1081
+Order[461]: Slab 970
+Order[462]: Slab 2095
+Order[463]: Slab 2013
+Order[464]: Slab 1601
+Order[465]: Slab 510
+Order[466]: Slab 1199
+Order[467]: Slab 1015
+Order[468]: Slab 2200
+Order[469]: Slab 1490
+Order[470]: Slab 2085
+Order[471]: Slab 1414
+Order[472]: Slab 1067
+Order[473]: Slab 1995
+Order[474]: Slab 1948
+Order[475]: Slab 168
+Order[476]: Slab 2162
+Order[477]: Slab 389
+Order[478]: Slab 1933
+Order[479]: Slab 1807
+Order[480]: Slab 1378
+Order[481]: Slab 1697
+Order[482]: Slab 489
+Order[483]: Slab 795
+Order[484]: Slab 557
+Order[485]: Slab 646
+Order[486]: Slab 1669
+Order[487]: Slab 536
+Order[488]: Slab 956
+Order[489]: Slab 307
+Order[490]: Slab 744
+Order[491]: Slab 2273
+Order[492]: Slab 1526
+Order[493]: Slab 966
+Order[494]: Slab 97
+Order[495]: Slab 927
+Order[496]: Slab 1046
+Order[497]: Slab 1650
+Order[498]: Slab 470
+Order[499]: Slab 40
+Order[500]: Slab 172
+Order[501]: Slab 930
+Order[502]: Slab 2038
+Order[503]: Slab 2097
+Order[504]: Slab 1062
+Order[505]: Slab 1812
+Order[506]: Slab 1827
+Order[507]: Slab 1449
+Order[508]: Slab 1185
+Order[509]: Slab 1446
+Order[510]: Slab 1235
+Order[511]: Slab 1975
+Order[512]: Slab 854
+Order[513]: Slab 901
+Order[514]: Slab 556
+Order[515]: Slab 567
+Order[516]: Slab 583
+Order[517]: Slab 1705
+Order[518]: Slab 1100
+Order[519]: Slab 1356
+Order[520]: Slab 135
+Order[521]: Slab 1727
+Order[522]: Slab 38
+Order[523]: Slab 1150
+Order[524]: Slab 215
+Order[525]: Slab 9
+Order[526]: Slab 1086
+Order[527]: Slab 1271
+Order[528]: Slab 1069
+Order[529]: Slab 1790
+Order[530]: Slab 962
+Order[531]: Slab 337
+Order[532]: Slab 628
+Order[533]: Slab 1915
+Order[534]: Slab 104
+Order[535]: Slab 664
+Order[536]: Slab 1121
+Order[537]: Slab 2106
+Order[538]: Slab 2172
+Order[539]: Slab 1263
+Order[540]: Slab 1330
+Order[541]: Slab 660
+Order[542]: Slab 1733
+Order[543]: Slab 2246
+Order[544]: Slab 322
+Order[545]: Slab 287
+Order[546]: Slab 2067
+Order[547]: Slab 2135
+Order[548]: Slab 1237
+Order[549]: Slab 3
+Order[550]: Slab 2269
+Order[551]: Slab 1160
+Order[552]: Slab 1634
+Order[553]: Slab 1594
+Order[554]: Slab 1002
+Order[555]: Slab 1158
+Order[556]: Slab 1442
+Order[557]: Slab 894
+Order[558]: Slab 2239
+Order[559]: Slab 1525
+Order[560]: Slab 317
+Order[561]: Slab 1474
+Order[562]: Slab 419
+Order[563]: Slab 1645
+Order[564]: Slab 1469
+Order[565]: Slab 1336
+Order[566]: Slab 2236
+Order[567]: Slab 1279
+Order[568]: Slab 1106
+Order[569]: Slab 1521
+Order[570]: Slab 1913
+Order[571]: Slab 1472
+Order[572]: Slab 1294
+Order[573]: Slab 872
+Order[574]: Slab 1436
+Order[575]: Slab 911
+Order[576]: Slab 1174
+Order[577]: Slab 23
+Order[578]: Slab 1194
+Order[579]: Slab 1761
+Order[580]: Slab 1070
+Order[581]: Slab 2113
+Order[582]: Slab 1515
+Order[583]: Slab 1451
+Order[584]: Slab 1380
+Order[585]: Slab 183
+Order[586]: Slab 2137
+Order[587]: Slab 154
+Order[588]: Slab 672
+Order[589]: Slab 1701
+Order[590]: Slab 882
+Order[591]: Slab 2111
+Order[592]: Slab 1060
+Order[593]: Slab 139
+Order[594]: Slab 406
+Order[595]: Slab 1734
+Order[596]: Slab 972
+Order[597]: Slab 2179
+Order[598]: Slab 2245
+Order[599]: Slab 1944
+Order[600]: Slab 2194
+160->OUT in 109.001 seconds
+91->74 in 69.556 seconds
+92->74 in 67.931 seconds
+85->74 in 72.2629 seconds
+85->74 in 72.2629 seconds
+65->74 in 69.7715 seconds
+65->74 in 69.7715 seconds
+65->74 in 69.7715 seconds
+65->74 in 69.7715 seconds
+65->74 in 69.7715 seconds
+65->74 in 69.7715 seconds
+47->74 in 87.1078 seconds
+60->47 in 65.4181 seconds
+35->47 in 63.7931 seconds
+34->47 in 65.4181 seconds
+41->47 in 69.75 seconds
+41->47 in 69.75 seconds
+41->47 in 69.75 seconds
+41->47 in 69.75 seconds
+41->47 in 69.75 seconds
+41->47 in 69.75 seconds
+41->47 in 69.75 seconds
+41->47 in 69.75 seconds
+114->47 in 85.8319 seconds
+114->48 in 84.2069 seconds
+78->65 in 66.5216 seconds
+38->78 in 78.9828 seconds
+87->78 in 69.0129 seconds
+87->78 in 69.0129 seconds
+105->78 in 76.5991 seconds
+31->78 in 77.9009 seconds
+38->78 in 78.9828 seconds
+17->78 in 81.694 seconds
+17->78 in 81.694 seconds
+128->78 in 85.8103 seconds
+136->78 in 85.8103 seconds
+160->78 in 97.1164 seconds
+114->78 in 81.4741 seconds
+114->91 in 81.6681 seconds
+114->160 in 95.1422 seconds
+114->OUT in 74.3586 seconds
+95->OUT in 81.4405 seconds
+82->77 in 65.7629 seconds
+82->77 in 65.7629 seconds
+88->77 in 72.2629 seconds
+80->77 in 69.0129 seconds
+126->77 in 86.8922 seconds
+134->77 in 84.1853 seconds
+126->77 in 86.8922 seconds
+126->77 in 86.8922 seconds
+156->77 in 88.5216 seconds
+156->77 in 88.5216 seconds
+101->77 in 77.681 seconds
+121->114 in 71.9181 seconds
+87->114 in 72.4612 seconds
+85->114 in 75.7112 seconds
+103->114 in 77.875 seconds
+103->114 in 77.875 seconds
+73->114 in 89.5991 seconds
+82->73 in 69.0129 seconds
+153->73 in 90.1465 seconds
+153->73 in 90.1465 seconds
+156->73 in 95.0216 seconds
+204->73 in 119.871 seconds
+101->73 in 84.181 seconds
+101->73 in 84.181 seconds
+166->51 in 110.681 seconds
+178->51 in 114.474 seconds
+104->51 in 82.0388 seconds
+125->51 in 97.2069 seconds
+83->51 in 76.0776 seconds
+174->51 in 107.974 seconds
+101->51 in 89.6207 seconds
+101->134 in 76.2543 seconds
+104->73 in 73.3491 seconds
+104->73 in 73.3491 seconds
+104->73 in 73.3491 seconds
+166->73 in 105.241 seconds
+101->73 in 84.181 seconds
+40->156 in 102.629 seconds
+101->40 in 91.7888 seconds
+101->166 in 87.5603 seconds
+101->OUT in 71.6905 seconds
+60->OUT in 66.5552 seconds
+64->76 in 64.8966 seconds
+64->76 in 64.8966 seconds
+81->76 in 65.7629 seconds
+80->76 in 67.3879 seconds
+80->76 in 67.3879 seconds
+62->76 in 68.1465 seconds
+61->76 in 69.7716 seconds
+61->76 in 69.7716 seconds
+61->76 in 69.7716 seconds
+83->76 in 65.7629 seconds
+83->81 in 63.25 seconds
+64->17 in 76.7974 seconds
+98->17 in 92.875 seconds
+83->98 in 68.6681 seconds
+86->178 in 93.5216 seconds
+83->86 in 64.875 seconds
+83->51 in 76.0776 seconds
+83->51 in 76.0776 seconds
+83->6 in 89.625 seconds
+83->6 in 89.625 seconds
+83->6 in 89.625 seconds
+83->OUT in 77.6474 seconds
+14->27 in 65.4181 seconds
+14->27 in 65.4181 seconds
+64->27 in 73.0043 seconds
+9->27 in 77.3362 seconds
+9->27 in 77.3362 seconds
+107->27 in 91.25 seconds
+109->27 in 94.5 seconds
+109->27 in 94.5 seconds
+90->27 in 95.0388 seconds
+55->27 in 74.0862 seconds
+93->107 in 67.0431 seconds
+55->93 in 83.1207 seconds
+55->64 in 68.6681 seconds
+113->109 in 66.5 seconds
+55->109 in 80.4138 seconds
+110->83 in 72.4612 seconds
+110->83 in 72.4612 seconds
+110->83 in 72.4612 seconds
+110->83 in 72.4612 seconds
+110->83 in 72.4612 seconds
+110->83 in 72.4612 seconds
+110->83 in 72.4612 seconds
+120->83 in 73.0043 seconds
+52->83 in 74.4526 seconds
+69->83 in 75.5345 seconds
+55->83 in 76.0776 seconds
+55->OUT in 74.1802 seconds
+20->38 in 77.3362 seconds
+87->38 in 87.9957 seconds
+87->OUT in 71.1474 seconds
+173->14 in 119.353 seconds
+173->OUT in 111.169 seconds
+37->66 in 75.7112 seconds
+37->87 in 89.6207 seconds
+37->OUT in 87.7233 seconds
+139->87 in 91.9655 seconds
+139->64 in 92.875 seconds
+89->95 in 73.5431 seconds
+139->89 in 95.2155 seconds
+139->90 in 96.8405 seconds
+139->OUT in 103.113 seconds
+162->110 in 85.3922 seconds
+122->110 in 63.7931 seconds
+76->110 in 78.2241 seconds
+19->76 in 84.944 seconds
+19->OUT in 85.5595 seconds
+70->120 in 86.9138 seconds
+19->34 in 68.6681 seconds
+23->19 in 66.5 seconds
+15->19 in 66.5 seconds
+49->19 in 81.1293 seconds
+28->19 in 68.6681 seconds
+70->19 in 80.0474 seconds
+70->49 in 78.4181 seconds
+188->67 in 104.724 seconds
+70->67 in 64.875 seconds
+114->28 in 101 seconds
+70->114 in 79.8707 seconds
+70->87 in 70.6595 seconds
+70->67 in 64.875 seconds
+70->48 in 70.8362 seconds
+70->67 in 64.875 seconds
+70->67 in 64.875 seconds
+70->67 in 64.875 seconds
+70->OUT in 65.5121 seconds
+100->70 in 72.8276 seconds
+56->70 in 67.0431 seconds
+56->70 in 67.0431 seconds
+56->70 in 67.0431 seconds
+56->70 in 67.0431 seconds
+56->70 in 67.0431 seconds
+56->70 in 67.0431 seconds
+88->70 in 69.0345 seconds
+100->70 in 72.8276 seconds
+100->70 in 72.8276 seconds
+100->70 in 72.8276 seconds
+175->70 in 107.431 seconds
+56->153 in 103.711 seconds
+100->56 in 79.8707 seconds
+6->56 in 78.4224 seconds
+82->56 in 79.3276 seconds
+100->56 in 79.8707 seconds
+100->56 in 79.8707 seconds
+100->56 in 79.8707 seconds
+175->56 in 107.974 seconds
+100->36 in 87.4569 seconds
+108->100 in 70.2931 seconds
+137->100 in 73.0043 seconds
+117->100 in 78.9612 seconds
+117->100 in 78.9612 seconds
+142->100 in 84.9224 seconds
+177->100 in 91.3535 seconds
+177->100 in 91.3535 seconds
+193->100 in 95.1465 seconds
+175->100 in 94.6034 seconds
+108->113 in 68.125 seconds
+132->108 in 67.5862 seconds
+175->108 in 84.3103 seconds
+175->4 in 123.147 seconds
+175->4 in 123.147 seconds
+175->OUT in 107.919 seconds
+7->139 in 116.716 seconds
+7->193 in 131.815 seconds
+7->14 in 71.9181 seconds
+7->132 in 104.797 seconds
+7->122 in 101.004 seconds
+7->OUT in 89.3526 seconds
+125->OUT in 79.2767 seconds
+136->OUT in 84.6948 seconds
+16->7 in 68.6681 seconds
+14->7 in 71.9181 seconds
+44->7 in 73.0043 seconds
+44->7 in 73.0043 seconds
+44->7 in 73.0043 seconds
+83->7 in 91.25 seconds
+182->83 in 102.19 seconds
+182->4 in 128.565 seconds
+182->14 in 121.522 seconds
+182->177 in 75.1681 seconds
+182->4 in 128.565 seconds
+182->4 in 128.565 seconds
+182->4 in 128.565 seconds
+182->4 in 128.565 seconds
+182->4 in 128.565 seconds
+182->4 in 128.565 seconds
+182->OUT in 119.837 seconds
+162->139 in 75.6379 seconds
+165->14 in 122.06 seconds
+182->14 in 121.522 seconds
+183->182 in 61.625 seconds
+197->182 in 68.6681 seconds
+174->182 in 70.2931 seconds
+158->182 in 67.5862 seconds
+158->182 in 67.5862 seconds
+174->182 in 70.2931 seconds
+174->182 in 70.2931 seconds
+174->182 in 70.2931 seconds
+174->182 in 70.2931 seconds
+151->182 in 72.931 seconds
+202->182 in 76.7931 seconds
+162->182 in 74.0862 seconds
+80->10 in 101 seconds
+80->10 in 101 seconds
+80->10 in 101 seconds
+162->10 in 124.228 seconds
+162->OUT in 105.751 seconds
+39->139 in 98.8362 seconds
+39->OUT in 84.4733 seconds
+175->14 in 122.603 seconds
+175->OUT in 107.919 seconds
+72->39 in 82.2112 seconds
+176->39 in 115.017 seconds
+176->183 in 71.9181 seconds
+176->173 in 64.875 seconds
+176->14 in 124.228 seconds
+176->14 in 124.228 seconds
+176->14 in 124.228 seconds
+176->173 in 64.875 seconds
+176->52 in 109.599 seconds
+176->16 in 120.978 seconds
+176->OUT in 106.294 seconds
+149->87 in 82.2155 seconds
+35->149 in 99.3793 seconds
+35->139 in 115.629 seconds
+35->OUT in 75.2664 seconds
+181->58 in 107.974 seconds
+23->139 in 119.422 seconds
+99->23 in 91.25 seconds
+181->23 in 117.728 seconds
+181->58 in 107.974 seconds
+181->58 in 107.974 seconds
+181->66 in 110.681 seconds
+181->OUT in 98.669 seconds
+37->105 in 87.4569 seconds
+37->20 in 78.9612 seconds
+37->31 in 73.5431 seconds
+37->58 in 78.4181 seconds
+37->58 in 78.4181 seconds
+37->103 in 84.2069 seconds
+37->87 in 89.6207 seconds
+37->136 in 106.418 seconds
+37->OUT in 87.7233 seconds
+53->37 in 70.2931 seconds
+49->37 in 63.7931 seconds
+49->37 in 63.7931 seconds
+53->37 in 70.2931 seconds
+15->37 in 70.8362 seconds
+35->37 in 80.0431 seconds
+35->37 in 80.0431 seconds
+72->37 in 85.4612 seconds
+72->37 in 85.4612 seconds
+72->37 in 85.4612 seconds
+115->37 in 88 seconds
+55->37 in 73.5431 seconds
+188->49 in 118.267 seconds
+35->49 in 83.8362 seconds
+147->35 in 102.629 seconds
+131->35 in 105.336 seconds
+131->35 in 105.336 seconds
+131->35 in 105.336 seconds
+167->35 in 110.142 seconds
+167->35 in 110.142 seconds
+55->35 in 74.0862 seconds
+55->9 in 78.4224 seconds
+55->75 in 75.1897 seconds
+55->OUT in 74.1802 seconds
+176->9 in 123.147 seconds
+187->176 in 65.4181 seconds
+173->176 in 64.875 seconds
+173->176 in 64.875 seconds
+175->176 in 61.625 seconds
+165->176 in 65.4181 seconds
+201->176 in 69.2112 seconds
+201->176 in 69.2112 seconds
+169->176 in 71.9181 seconds
+173->176 in 64.875 seconds
+187->176 in 65.4181 seconds
+152->176 in 77.2629 seconds
+195->75 in 105.246 seconds
+128->75 in 80.9353 seconds
+8->75 in 91.9871 seconds
+55->75 in 75.1897 seconds
+16->55 in 76.2543 seconds
+52->55 in 64.875 seconds
+51->55 in 66.5 seconds
+51->55 in 66.5 seconds
+8->55 in 76.7974 seconds
+14->55 in 79.5043 seconds
+14->55 in 79.5043 seconds
+148->55 in 96.6681 seconds
+169->55 in 109.056 seconds
+169->55 in 109.056 seconds
+170->55 in 114.474 seconds
+152->55 in 103.711 seconds
+152->14 in 106.966 seconds
+152->OUT in 105.281 seconds
+57->OUT in 70.9302 seconds
+174->21 in 122.603 seconds
+167->115 in 91.3491 seconds
+162->167 in 68.125 seconds
+162->167 in 68.125 seconds
+174->167 in 71.9181 seconds
+174->OUT in 109.544 seconds
+204->165 in 76.2543 seconds
+204->165 in 76.2543 seconds
+204->148 in 82.1422 seconds
+204->6 in 135.608 seconds
+204->6 in 135.608 seconds
+204->166 in 74.6293 seconds
+204->62 in 123.142 seconds
+204->202 in 63.25 seconds
+204->36 in 121.522 seconds
+204->36 in 121.522 seconds
+204->OUT in 107.38 seconds
+44->152 in 109.129 seconds
+72->152 in 108.043 seconds
+201->204 in 64.875 seconds
+125->204 in 88.1034 seconds
+165->204 in 76.2543 seconds
+165->204 in 76.2543 seconds
+161->204 in 82.7543 seconds
+146->204 in 85.3922 seconds
+101->204 in 95.6897 seconds
+88->204 in 101.108 seconds
+88->204 in 101.108 seconds
+82->204 in 110.858 seconds
+82->204 in 110.858 seconds
+72->204 in 110.142 seconds
+72->173 in 113.931 seconds
+72->173 in 113.931 seconds
+72->173 in 113.931 seconds
+135->174 in 83.2241 seconds
+167->174 in 71.9181 seconds
+72->167 in 100.388 seconds
+72->187 in 114.474 seconds
+72->OUT in 62.7621 seconds
+16->14 in 63.25 seconds
+52->72 in 76.7931 seconds
+44->72 in 74.0862 seconds
+16->72 in 88.1724 seconds
+16->72 in 88.1724 seconds
+16->72 in 88.1724 seconds
+16->72 in 88.1724 seconds
+16->OUT in 90.4345 seconds
+84->OUT in 76.0224 seconds
+165->72 in 103.638 seconds
+164->72 in 105.263 seconds
+176->72 in 109.056 seconds
+8->176 in 121.522 seconds
+8->72 in 85.4655 seconds
+8->152 in 120.509 seconds
+8->201 in 127.483 seconds
+8->72 in 85.4655 seconds
+8->72 in 85.4655 seconds
+8->OUT in 87.7276 seconds
+59->84 in 80.9526 seconds
+59->187 in 116.642 seconds
+59->OUT in 67.6802 seconds
+102->48 in 80.4138 seconds
+102->48 in 80.4138 seconds
+102->64 in 85.8276 seconds
+72->8 in 85.4655 seconds
+72->8 in 85.4655 seconds
+72->8 in 85.4655 seconds
+133->8 in 104.797 seconds
+180->8 in 124.772 seconds
+129->8 in 111.297 seconds
+129->8 in 111.297 seconds
+129->8 in 111.297 seconds
+102->8 in 98.2931 seconds
+102->180 in 89.7284 seconds
+102->201 in 102.19 seconds
+102->201 in 102.19 seconds
+102->64 in 85.8276 seconds
+102->59 in 78.2457 seconds
+113->170 in 100.56 seconds
+102->113 in 65.4181 seconds
+102->48 in 80.4138 seconds
+102->OUT in 70.5655 seconds
+60->102 in 76.6207 seconds
+85->102 in 71.9181 seconds
+99->102 in 64.875 seconds
+60->102 in 76.6207 seconds
+58->102 in 79.8707 seconds
+58->102 in 79.8707 seconds
+58->102 in 79.8707 seconds
+58->102 in 79.8707 seconds
+58->102 in 79.8707 seconds
+57->102 in 81.4957 seconds
+181->102 in 88.1034 seconds
+185->102 in 104.897 seconds
+57->181 in 109.599 seconds
+185->181 in 76.7931 seconds
+94->99 in 68.125 seconds
+58->99 in 78.2457 seconds
+29->58 in 75.7112 seconds
+29->58 in 75.7112 seconds
+29->58 in 75.7112 seconds
+29->58 in 75.7112 seconds
+29->58 in 75.7112 seconds
+26->58 in 80.5862 seconds
+26->58 in 80.5862 seconds
+163->58 in 107.431 seconds
+185->58 in 118.267 seconds
+185->OUT in 114.962 seconds
+153->OUT in 103.656 seconds
+13->57 in 84.3793 seconds
+13->48 in 85.4612 seconds
+13->48 in 85.4612 seconds
+13->136 in 114.004 seconds
+13->160 in 115.56 seconds
+13->OUT in 95.3095 seconds
+116->OUT in 93.9017 seconds
+13->48 in 85.4612 seconds
+18->66 in 75.1724 seconds
+13->18 in 68.125 seconds
+144->57 in 96.6681 seconds
+13->144 in 111.297 seconds
+25->75 in 79.5259 seconds
+13->25 in 63.7931 seconds
+13->OUT in 95.3095 seconds
+171->59 in 119.349 seconds
+25->13 in 63.7931 seconds
+18->13 in 68.125 seconds
+20->13 in 71.375 seconds
+48->13 in 85.4612 seconds
+30->13 in 71.9181 seconds
+64->13 in 80.0474 seconds
+64->13 in 80.0474 seconds
+75->13 in 83.319 seconds
+67->13 in 84.9224 seconds
+48->13 in 85.4612 seconds
+171->13 in 117.728 seconds
+171->OUT in 114.419 seconds
+60->OUT in 66.5552 seconds
+195->OUT in 122.005 seconds
+131->185 in 82.1422 seconds
+131->135 in 66.5 seconds
+131->OUT in 92.8198 seconds
+168->30 in 116.642 seconds
+168->48 in 106.349 seconds
+168->20 in 117.185 seconds
+168->195 in 86.0043 seconds
+89->67 in 75.5345 seconds
+168->89 in 88.1034 seconds
+168->OUT in 96.0009 seconds
+34->OUT in 76.8914 seconds
+198->65 in 108.517 seconds
+96->198 in 97.3147 seconds
+96->185 in 95.1465 seconds
+96->OUT in 79.8155 seconds
+199->195 in 66.5 seconds
+199->168 in 79.5043 seconds
+199->131 in 85.9353 seconds
+199->OUT in 115.505 seconds
+34->OUT in 76.8914 seconds
+125->OUT in 79.2767 seconds
+2->165 in 125.853 seconds
+2->165 in 125.853 seconds
+2->OUT in 97.4776 seconds
+199->59 in 120.435 seconds
+199->34 in 126.397 seconds
+199->168 in 79.5043 seconds
+199->75 in 108.496 seconds
+199->25 in 128.022 seconds
+199->75 in 108.496 seconds
+43->131 in 95.0431 seconds
+89->131 in 84.9224 seconds
+199->89 in 107.608 seconds
+199->OUT in 115.505 seconds
+187->199 in 63.7931 seconds
+187->199 in 63.7931 seconds
+187->199 in 63.7931 seconds
+187->199 in 63.7931 seconds
+194->199 in 68.125 seconds
+194->199 in 68.125 seconds
+205->199 in 69.75 seconds
+173->199 in 70.8362 seconds
+191->199 in 70.2931 seconds
+173->199 in 70.8362 seconds
+163->199 in 71.3793 seconds
+188->199 in 65.4181 seconds
+133->173 in 81.5991 seconds
+187->173 in 67.0431 seconds
+201->187 in 67.0431 seconds
+201->187 in 67.0431 seconds
+201->187 in 67.0431 seconds
+172->187 in 68.6681 seconds
+188->187 in 61.625 seconds
+188->172 in 70.2931 seconds
+188->34 in 120.978 seconds
+17->164 in 115.56 seconds
+188->17 in 123.147 seconds
+188->OUT in 110.087 seconds
+82->165 in 94.6034 seconds
+82->36 in 93.4138 seconds
+82->175 in 95.1465 seconds
+82->3 in 89.625 seconds
+82->175 in 95.1465 seconds
+82->OUT in 79.2724 seconds
+136->82 in 84.9224 seconds
+71->82 in 80.4095 seconds
+71->82 in 80.4095 seconds
+143->82 in 80.5905 seconds
+143->82 in 80.5905 seconds
+30->82 in 83.6638 seconds
+136->82 in 84.9224 seconds
+157->82 in 87.6336 seconds
+171->82 in 95.1465 seconds
+191->82 in 105.44 seconds
+191->82 in 105.44 seconds
+160->82 in 89.7285 seconds
+160->143 in 72.3879 seconds
+160->171 in 65.4181 seconds
+160->143 in 72.3879 seconds
+160->30 in 113.392 seconds
+160->191 in 78.9612 seconds
+160->191 in 78.9612 seconds
+160->171 in 65.4181 seconds
+160->168 in 73 seconds
+160->168 in 73 seconds
+160->168 in 73 seconds
+160->OUT in 109.001 seconds
+16->OUT in 90.4345 seconds
+26->185 in 119.353 seconds
+26->191 in 129.103 seconds
+172->160 in 63.7931 seconds
+188->160 in 74.0862 seconds
+116->160 in 78.3491 seconds
+116->160 in 78.3491 seconds
+94->160 in 85.9353 seconds
+94->160 in 85.9353 seconds
+34->160 in 119.892 seconds
+188->160 in 74.0862 seconds
+26->160 in 110.142 seconds
+116->163 in 83.2241 seconds
+105->116 in 65.4181 seconds
+105->116 in 65.4181 seconds
+105->116 in 65.4181 seconds
+26->116 in 91.7931 seconds
+26->185 in 119.353 seconds
+26->172 in 113.935 seconds
+26->105 in 89.625 seconds
+26->105 in 89.625 seconds
+26->OUT in 89.8914 seconds
+190->110 in 89.7285 seconds
+106->160 in 82.1422 seconds
+120->160 in 81.5991 seconds
+190->120 in 89.1853 seconds
+190->106 in 96.2284 seconds
+190->174 in 70.2931 seconds
+190->160 in 77.3362 seconds
+190->OUT in 106.837 seconds
+197->OUT in 118.755 seconds
+17->34 in 71.9181 seconds
+147->17 in 109.672 seconds
+147->OUT in 90.1129 seconds
+18->131 in 101.004 seconds
+18->168 in 120.435 seconds
+18->OUT in 87.1845 seconds
+26->66 in 77.8793 seconds
+75->26 in 77.9009 seconds
+75->OUT in 76.7595 seconds
+39->OUT in 84.4733 seconds
+118->OUT in 90.6517 seconds
+117->177 in 88.6422 seconds
+117->OUT in 92.2767 seconds
+127->117 in 67.0431 seconds
+127->117 in 67.0431 seconds
+140->117 in 69.2112 seconds
+162->117 in 79.9741 seconds
+16->26 in 67.0431 seconds
+59->26 in 82.2112 seconds
+133->26 in 103.711 seconds
+129->26 in 97.2112 seconds
+129->26 in 97.2112 seconds
+147->26 in 110.754 seconds
+147->26 in 110.754 seconds
+147->26 in 110.754 seconds
+195->26 in 119.897 seconds
+186->26 in 120.978 seconds
+93->26 in 85.8319 seconds
+162->93 in 87.5603 seconds
+162->OUT in 105.751 seconds
+52->201 in 118.81 seconds
+52->72 in 76.7931 seconds
+52->72 in 76.7931 seconds
+52->72 in 76.7931 seconds
+52->16 in 71.3793 seconds
+52->16 in 71.3793 seconds
+52->16 in 71.3793 seconds
+52->16 in 71.3793 seconds
+52->OUT in 79.0552 seconds
+16->52 in 71.3793 seconds
+16->52 in 71.3793 seconds
+16->52 in 71.3793 seconds
+16->52 in 71.3793 seconds
+140->52 in 95.0431 seconds
+55->52 in 64.875 seconds
+69->55 in 67.0431 seconds
+69->52 in 71.9181 seconds
+61->52 in 68.6681 seconds
+15->52 in 73.0043 seconds
+15->52 in 73.0043 seconds
+69->52 in 71.9181 seconds
+69->36 in 76.2543 seconds
+69->147 in 88 seconds
+97->201 in 97.3147 seconds
+24->201 in 130.19 seconds
+69->24 in 80.0474 seconds
+69->16 in 83.2974 seconds
+69->147 in 88 seconds
+44->16 in 74.0862 seconds
+69->16 in 83.2974 seconds
+69->36 in 76.2543 seconds
+69->OUT in 67.1371 seconds
+125->69 in 83.6638 seconds
+125->69 in 83.6638 seconds
+2->69 in 90.3405 seconds
+6->69 in 83.8405 seconds
+6->69 in 83.8405 seconds
+2->69 in 90.3405 seconds
+2->69 in 90.3405 seconds
+165->69 in 98.7629 seconds
+165->69 in 98.7629 seconds
+33->69 in 71.3793 seconds
+119->69 in 86.9138 seconds
+142->69 in 96.125 seconds
+150->165 in 75.6379 seconds
+142->165 in 75.6379 seconds
+142->OUT in 98.2379 seconds
+144->OUT in 94.9879 seconds
+29->OUT in 85.0164 seconds
+43->197 in 120.978 seconds
+43->194 in 125.853 seconds
+43->OUT in 77.9733 seconds
+44->140 in 105.336 seconds
+44->175 in 111.767 seconds
+44->97 in 82.0388 seconds
+44->175 in 111.767 seconds
+44->OUT in 76.3483 seconds
+123->96 in 72.4612 seconds
+121->96 in 69.2112 seconds
+188->195 in 71.9181 seconds
+179->188 in 68.6681 seconds
+203->188 in 68.6681 seconds
+180->188 in 70.2931 seconds
+43->188 in 112.31 seconds
+194->188 in 73.5431 seconds
+60->188 in 116.642 seconds
+60->188 in 116.642 seconds
+60->188 in 116.642 seconds
+60->188 in 116.642 seconds
+121->188 in 84.3103 seconds
+121->188 in 84.3103 seconds
+121->197 in 92.9784 seconds
+121->71 in 86.9138 seconds
+121->194 in 97.8535 seconds
+121->131 in 67.0431 seconds
+121->OUT in 85.7767 seconds
+192->OUT in 103.587 seconds
+39->OUT in 84.4733 seconds
+62->OUT in 78.5121 seconds
+151->OUT in 106.906 seconds
+131->121 in 67.0431 seconds
+196->121 in 94.6035 seconds
+194->121 in 97.8535 seconds
+187->121 in 85.9353 seconds
+133->187 in 82.1422 seconds
+188->121 in 84.3103 seconds
+133->188 in 80.5172 seconds
+105->121 in 70.2931 seconds
+41->121 in 91.25 seconds
+41->121 in 91.25 seconds
+199->121 in 89.7285 seconds
+133->199 in 85.9353 seconds
+133->OUT in 89.5698 seconds
+84->133 in 76.7974 seconds
+84->133 in 76.7974 seconds
+39->133 in 98.2931 seconds
+26->133 in 103.711 seconds
+128->26 in 95.5862 seconds
+128->133 in 68.125 seconds
+149->196 in 93.5172 seconds
+128->149 in 78.4181 seconds
+128->144 in 70.2931 seconds
+49->151 in 95.5862 seconds
+128->49 in 89.625 seconds
+128->157 in 75.7112 seconds
+123->133 in 67.0431 seconds
+187->133 in 82.1422 seconds
+128->187 in 87.0172 seconds
+128->OUT in 97.6948 seconds
+119->44 in 92.875 seconds
+33->44 in 65.4181 seconds
+6->44 in 74.6293 seconds
+88->44 in 79.8707 seconds
+124->44 in 91.25 seconds
+148->44 in 98.8362 seconds
+148->44 in 98.8362 seconds
+119->44 in 92.875 seconds
+119->44 in 92.875 seconds
+148->44 in 98.8362 seconds
+83->44 in 81.4957 seconds
+62->83 in 73.9095 seconds
+166->148 in 70.7629 seconds
+117->148 in 78.9612 seconds
+62->117 in 82.0388 seconds
+62->OUT in 78.5121 seconds
+160->162 in 63.25 seconds
+154->162 in 66.9698 seconds
+154->162 in 66.9698 seconds
+154->162 in 66.9698 seconds
+154->162 in 66.9698 seconds
+145->162 in 72.3879 seconds
+145->162 in 72.3879 seconds
+145->162 in 72.3879 seconds
+145->162 in 72.3879 seconds
+167->162 in 68.125 seconds
+161->167 in 69.75 seconds
+161->62 in 100.388 seconds
+88->51 in 84.2026 seconds
+166->88 in 89.7284 seconds
+62->88 in 82.0345 seconds
+62->88 in 82.0345 seconds
+166->88 in 89.7284 seconds
+166->88 in 89.7284 seconds
+161->88 in 97.8534 seconds
+161->OUT in 107.376 seconds
+32->147 in 101.004 seconds
+32->180 in 117.185 seconds
+129->64 in 85.8319 seconds
+15->129 in 99.3793 seconds
+146->129 in 71.9181 seconds
+161->129 in 74.556 seconds
+161->129 in 74.556 seconds
+205->129 in 98.9353 seconds
+32->129 in 103.711 seconds
+32->16 in 70.2931 seconds
+32->16 in 70.2931 seconds
+32->147 in 101.004 seconds
+32->147 in 101.004 seconds
+32->OUT in 80.1414 seconds
+163->OUT in 104.126 seconds
+122->OUT in 84.1517 seconds
+169->OUT in 94.8759 seconds
+75->OUT in 76.7595 seconds
+144->128 in 70.2931 seconds
+123->128 in 75.1681 seconds
+123->128 in 75.1681 seconds
+157->128 in 75.7112 seconds
+168->128 in 87.556 seconds
+43->128 in 99.9181 seconds
+43->128 in 99.9181 seconds
+43->128 in 99.9181 seconds
+30->128 in 102.086 seconds
+187->128 in 87.0172 seconds
+39->187 in 117.185 seconds
+39->160 in 104.724 seconds
+39->151 in 102.629 seconds
+118->154 in 71.3793 seconds
+39->118 in 89.625 seconds
+39->147 in 105.336 seconds
+75->127 in 82.5603 seconds
+39->75 in 72.4828 seconds
+39->OUT in 84.4733 seconds
+103->18 in 99.9181 seconds
+103->18 in 99.9181 seconds
+41->171 in 113.392 seconds
+103->41 in 90.7069 seconds
+197->41 in 117.728 seconds
+197->41 in 117.728 seconds
+197->41 in 117.728 seconds
+197->41 in 117.728 seconds
+197->41 in 117.728 seconds
+197->41 in 117.728 seconds
+103->41 in 90.7069 seconds
+103->OUT in 91.7336 seconds
+122->118 in 66.5 seconds
+122->144 in 70.8362 seconds
+103->41 in 90.7069 seconds
+29->41 in 63.7931 seconds
+38->41 in 64.875 seconds
+122->38 in 97.75 seconds
+122->16 in 102.086 seconds
+122->75 in 83.6422 seconds
+122->30 in 95.0431 seconds
+122->OUT in 84.1517 seconds
+11->OUT in 82.8526 seconds
+136->157 in 72.4612 seconds
+32->39 in 71.9181 seconds
+79->39 in 79.8707 seconds
+89->39 in 89.6207 seconds
+136->89 in 76.7974 seconds
+136->122 in 67.0431 seconds
+136->168 in 74.556 seconds
+136->18 in 105.879 seconds
+136->131 in 68.125 seconds
+163->103 in 88.6422 seconds
+194->103 in 91.8966 seconds
+151->194 in 76.7241 seconds
+169->194 in 89.2543 seconds
+136->194 in 98.9353 seconds
+136->103 in 82.2112 seconds
+136->OUT in 84.6948 seconds
+32->175 in 115.56 seconds
+16->32 in 70.2931 seconds
+16->32 in 70.2931 seconds
+16->32 in 70.2931 seconds
+79->32 in 91.7888 seconds
+79->OUT in 84.1474 seconds
+158->101 in 100.56 seconds
+42->101 in 88.5388 seconds
+146->10 in 110.216 seconds
+42->10 in 77.8793 seconds
+161->148 in 78.8879 seconds
+146->161 in 75.6379 seconds
+146->161 in 75.6379 seconds
+202->161 in 79.5043 seconds
+46->161 in 114.474 seconds
+46->161 in 114.474 seconds
+33->161 in 116.642 seconds
+22->161 in 122.06 seconds
+42->161 in 107.974 seconds
+158->101 in 100.56 seconds
+42->158 in 112.849 seconds
+42->158 in 112.849 seconds
+42->158 in 112.849 seconds
+42->OUT in 79.5983 seconds
+100->79 in 78.4181 seconds
+125->100 in 69.2112 seconds
+125->119 in 69.75 seconds
+125->OUT in 79.2767 seconds
+90->OUT in 66.7724 seconds
+168->136 in 74.556 seconds
+131->136 in 68.125 seconds
+168->136 in 74.556 seconds
+168->136 in 74.556 seconds
+60->136 in 91.25 seconds
+60->136 in 91.25 seconds
+48->136 in 95.0431 seconds
+18->136 in 105.879 seconds
+82->136 in 84.9224 seconds
+163->82 in 91.3534 seconds
+78->136 in 85.8103 seconds
+163->78 in 92.2414 seconds
+163->136 in 79.431 seconds
+62->158 in 98.7629 seconds
+31->62 in 79.5043 seconds
+66->62 in 66.5 seconds
+105->62 in 78.2457 seconds
+1->62 in 80.5905 seconds
+163->62 in 103.638 seconds
+163->OUT in 104.126 seconds
+140->OUT in 101.488 seconds
+190->174 in 70.2931 seconds
+192->174 in 73.5431 seconds
+29->62 in 76.2543 seconds
+29->62 in 76.2543 seconds
+29->62 in 76.2543 seconds
+105->62 in 78.2457 seconds
+194->62 in 110.142 seconds
+192->194 in 80.0431 seconds
+15->145 in 109.672 seconds
+192->145 in 83.2241 seconds
+192->OUT in 103.587 seconds
+140->OUT in 101.488 seconds
+60->168 in 102.556 seconds
+25->60 in 85.4612 seconds
+25->OUT in 91.5164 seconds
+54->51 in 64.875 seconds
+204->32 in 124.772 seconds
+54->204 in 120.435 seconds
+22->32 in 67.0431 seconds
+140->32 in 109.129 seconds
+140->32 in 109.129 seconds
+166->32 in 110.142 seconds
+54->32 in 70.8362 seconds
+70->79 in 83.6595 seconds
+54->70 in 70.2931 seconds
+54->6 in 75.1724 seconds
+54->OUT in 75.8052 seconds
+74->62 in 64.8966 seconds
+92->74 in 67.931 seconds
+92->62 in 72.8276 seconds
+197->103 in 96.7716 seconds
+92->197 in 98.9397 seconds
+92->197 in 98.9397 seconds
+92->OUT in 86.3155 seconds
+179->103 in 98.9353 seconds
+92->197 in 98.9397 seconds
+23->197 in 135.065 seconds
+179->23 in 117.728 seconds
+15->197 in 125.315 seconds
+121->197 in 92.9784 seconds
+179->121 in 85.3922 seconds
+179->122 in 83.7672 seconds
+179->OUT in 101.419 seconds
+119->OUT in 89.0267 seconds
+48->60 in 63.7931 seconds
+30->60 in 77.3362 seconds
+90->60 in 72.8276 seconds
+75->60 in 83.3147 seconds
+25->60 in 85.4612 seconds
+147->60 in 96.6681 seconds
+118->60 in 97.2069 seconds
+59->60 in 61.625 seconds
+59->60 in 61.625 seconds
+59->OUT in 67.6802 seconds
+127->OUT in 99.3198 seconds
+193->OUT in 102.462 seconds
+90->84 in 69.75 seconds
+59->60 in 61.625 seconds
+90->60 in 72.8276 seconds
+90->179 in 95.1465 seconds
+187->197 in 67.0431 seconds
+90->187 in 105.44 seconds
+90->179 in 95.1465 seconds
+90->179 in 95.1465 seconds
+90->179 in 95.1465 seconds
+90->OUT in 66.7724 seconds
+156->OUT in 98.781 seconds
+85->OUT in 74.3974 seconds
+104->OUT in 90.1086 seconds
+22->46 in 67.5862 seconds
+15->22 in 71.375 seconds
+15->22 in 71.375 seconds
+192->22 in 121.522 seconds
+59->90 in 74.4526 seconds
+59->90 in 74.4526 seconds
+59->90 in 74.4526 seconds
+59->90 in 74.4526 seconds
+59->90 in 74.4526 seconds
+169->90 in 88.1034 seconds
+169->90 in 88.1034 seconds
+179->90 in 95.1465 seconds
+7->90 in 96.125 seconds
+192->7 in 130.19 seconds
+192->151 in 89.181 seconds
+192->90 in 97.3147 seconds
+192->OUT in 103.587 seconds
+21->OUT in 82.3095 seconds
+186->79 in 102.19 seconds
+186->OUT in 113.337 seconds
+63->OUT in 76.8871 seconds
+61->OUT in 80.1371 seconds
+48->30 in 73.5431 seconds
+48->25 in 81.6681 seconds
+48->179 in 111.767 seconds
+48->OUT in 70.3483 seconds
+20->OUT in 83.9345 seconds
+21->174 in 122.603 seconds
+159->174 in 68.6681 seconds
+94->174 in 89.7284 seconds
+94->OUT in 83.0655 seconds
+157->OUT in 97.156 seconds
+119->OUT in 89.0267 seconds
+137->OUT in 83.0698 seconds
+152->OUT in 105.281 seconds
+192->46 in 113.935 seconds
+202->192 in 67.0431 seconds
+160->192 in 80.5862 seconds
+21->192 in 123.147 seconds
+22->192 in 121.522 seconds
+21->22 in 61.625 seconds
+21->OUT in 82.3095 seconds
+39->OUT in 84.4733 seconds
+113->OUT in 75.4836 seconds
+156->54 in 95.5862 seconds
+142->119 in 69.2112 seconds
+142->119 in 69.2112 seconds
+142->119 in 69.2112 seconds
+11->119 in 109.129 seconds
+44->119 in 92.875 seconds
+156->44 in 102.629 seconds
+86->192 in 100.565 seconds
+156->86 in 86.0086 seconds
+156->OUT in 98.781 seconds
+43->179 in 113.392 seconds
+43->179 in 113.392 seconds
+43->25 in 73.5431 seconds
+43->OUT in 77.9733 seconds
+152->OUT in 105.281 seconds
+123->57 in 84.2069 seconds
+31->43 in 63.7931 seconds
+31->43 in 63.7931 seconds
+31->43 in 63.7931 seconds
+31->43 in 63.7931 seconds
+31->43 in 63.7931 seconds
+31->43 in 63.7931 seconds
+123->43 in 91.25 seconds
+78->43 in 74.1078 seconds
+123->78 in 80.3922 seconds
+105->43 in 90.7069 seconds
+47->43 in 66.5 seconds
+123->47 in 91.25 seconds
+82->43 in 81.4957 seconds
+123->82 in 79.5043 seconds
+123->OUT in 82.5267 seconds
+101->OUT in 71.6905 seconds
+200->OUT in 113.88 seconds
+166->192 in 70.8362 seconds
+156->192 in 81.056 seconds
+156->192 in 81.056 seconds
+104->192 in 102.728 seconds
+6->192 in 131.815 seconds
+32->192 in 120.978 seconds
+2->32 in 77.3362 seconds
+2->150 in 123.216 seconds
+2->OUT in 97.4776 seconds
+193->61 in 122.599 seconds
+4->2 in 63.25 seconds
+4->2 in 63.25 seconds
+4->2 in 63.25 seconds
+150->2 in 123.216 seconds
+200->2 in 135.608 seconds
+193->2 in 139.94 seconds
+193->2 in 139.94 seconds
+193->2 in 139.94 seconds
+70->2 in 91.9655 seconds
+193->70 in 107.974 seconds
+193->2 in 139.94 seconds
+150->4 in 119.966 seconds
+193->4 in 136.69 seconds
+56->2 in 84.9224 seconds
+193->56 in 115.017 seconds
+193->11 in 125.315 seconds
+193->OUT in 102.462 seconds
+178->OUT in 103.044 seconds
+101->OUT in 71.6905 seconds
+15->21 in 69.75 seconds
+15->21 in 69.75 seconds
+94->21 in 96.125 seconds
+159->21 in 123.685 seconds
+178->21 in 116.103 seconds
+178->21 in 116.103 seconds
+178->21 in 116.103 seconds
+178->21 in 116.103 seconds
+178->21 in 116.103 seconds
+178->OUT in 103.044 seconds
+186->193 in 71.375 seconds
+11->193 in 125.315 seconds
+125->193 in 85.9353 seconds
+125->OUT in 79.2767 seconds
+46->OUT in 73.0983 seconds
+3->OUT in 95.8526 seconds
+15->OUT in 92.0595 seconds
+46->OUT in 73.0983 seconds
+71->OUT in 63.8871 seconds
+190->OUT in 106.837 seconds
+20->15 in 68.125 seconds
+87->123 in 71.3793 seconds
+68->123 in 82.0388 seconds
+136->123 in 65.4181 seconds
+20->136 in 102.629 seconds
+20->OUT in 83.9345 seconds
+71->OUT in 63.8871 seconds
+101->OUT in 71.6905 seconds
+141->OUT in 99.8629 seconds
+96->OUT in 79.8155 seconds
+57->OUT in 70.9302 seconds
+96->OUT in 79.8155 seconds
+101->OUT in 71.6905 seconds
+9->OUT in 86.1026 seconds
+153->OUT in 103.656 seconds
+97->OUT in 78.1905 seconds
+142->125 in 78.9612 seconds
+142->125 in 78.9612 seconds
+153->125 in 84.3793 seconds
+177->125 in 85.3922 seconds
+11->125 in 99.3793 seconds
+3->125 in 112.379 seconds
+3->125 in 112.379 seconds
+3->OUT in 95.8526 seconds
+57->OUT in 70.9302 seconds
+30->20 in 67.0431 seconds
+57->20 in 73.0043 seconds
+25->20 in 75.1681 seconds
+31->20 in 65.4181 seconds
+31->43 in 63.7931 seconds
+31->OUT in 81.7664 seconds
+65->OUT in 73.6371 seconds
+48->OUT in 70.3483 seconds
+9->OUT in 86.1026 seconds
+68->31 in 73.0043 seconds
+57->31 in 70.8362 seconds
+68->31 in 73.0043 seconds
+96->31 in 85.8319 seconds
+141->31 in 105.879 seconds
+141->31 in 105.879 seconds
+141->31 in 105.879 seconds
+96->31 in 85.8319 seconds
+96->31 in 85.8319 seconds
+15->48 in 82.2112 seconds
+9->15 in 73.5431 seconds
+57->15 in 81.1293 seconds
+96->15 in 92.875 seconds
+101->63 in 85.8276 seconds
+157->101 in 85.4655 seconds
+71->101 in 72.8276 seconds
+71->101 in 72.8276 seconds
+179->101 in 89.7284 seconds
+25->101 in 100.457 seconds
+96->101 in 68.125 seconds
+82->101 in 75.1681 seconds
+96->82 in 67.0431 seconds
+96->141 in 80.0474 seconds
+96->OUT in 79.8155 seconds
+51->OUT in 80.6802 seconds
+54->OUT in 75.8052 seconds
+46->178 in 110.142 seconds
+8->15 in 71.9181 seconds
+46->8 in 74.6293 seconds
+97->15 in 94.5 seconds
+46->15 in 78.9612 seconds
+46->15 in 78.9612 seconds
+46->15 in 78.9612 seconds
+97->15 in 94.5 seconds
+46->15 in 78.9612 seconds
+46->OUT in 73.0983 seconds
+63->OUT in 76.8871 seconds
+9->OUT in 86.1026 seconds
+9->101 in 95.0431 seconds
+112->101 in 65.4181 seconds
+203->101 in 97.3147 seconds
+136->96 in 77.8793 seconds
+203->136 in 84.3103 seconds
+71->96 in 80.9526 seconds
+82->96 in 67.0431 seconds
+203->82 in 109.233 seconds
+121->31 in 91.7931 seconds
+203->121 in 92.9784 seconds
+203->OUT in 109.005 seconds
+108->125 in 71.9181 seconds
+97->108 in 65.4181 seconds
+97->15 in 94.5 seconds
+97->OUT in 78.1905 seconds
+175->OUT in 107.919 seconds
+127->OUT in 99.3198 seconds
+84->OUT in 76.0224 seconds
+179->96 in 94.6034 seconds
+189->96 in 95.1465 seconds
+143->96 in 76.7974 seconds
+57->96 in 81.4957 seconds
+20->96 in 91.25 seconds
+66->143 in 89.625 seconds
+66->96 in 72.8276 seconds
+66->96 in 72.8276 seconds
+66->OUT in 72.0121 seconds
+168->OUT in 96.0009 seconds
+51->OUT in 80.6802 seconds
+54->2 in 81.6724 seconds
+54->OUT in 75.8052 seconds
+171->OUT in 114.419 seconds
+51->OUT in 80.6802 seconds
+170->OUT in 116.044 seconds
+51->OUT in 80.6802 seconds
+169->15 in 126.935 seconds
+90->178 in 96.7715 seconds
+169->90 in 88.1034 seconds
+169->186 in 78.9612 seconds
+162->178 in 70.2931 seconds
+169->162 in 71.375 seconds
+169->OUT in 94.8759 seconds
+33->46 in 65.4181 seconds
+63->46 in 78.9612 seconds
+33->178 in 112.31 seconds
+33->178 in 112.31 seconds
+63->178 in 110.681 seconds
+63->104 in 78.2457 seconds
+63->178 in 110.681 seconds
+170->169 in 81.6681 seconds
+170->169 in 81.6681 seconds
+170->169 in 81.6681 seconds
+170->169 in 81.6681 seconds
+170->169 in 81.6681 seconds
+97->169 in 92.4353 seconds
+63->169 in 111.763 seconds
+175->125 in 88.6422 seconds
+175->125 in 88.6422 seconds
+63->125 in 93.4138 seconds
+33->54 in 72.4612 seconds
+63->54 in 68.6681 seconds
+63->169 in 111.763 seconds
+63->169 in 111.763 seconds
+63->OUT in 76.8871 seconds
+146->OUT in 91.7379 seconds
+50->OUT in 82.3052 seconds
+65->OUT in 73.6371 seconds
+152->OUT in 105.281 seconds
+110->OUT in 80.3586 seconds
+63->169 in 111.763 seconds
+112->63 in 87.9957 seconds
+57->63 in 73.5431 seconds
+57->123 in 84.2069 seconds
+57->OUT in 70.9302 seconds
+106->OUT in 86.8586 seconds
+126->156 in 81.1293 seconds
+73->54 in 76.8147 seconds
+126->73 in 93.3922 seconds
+42->54 in 63.7931 seconds
+42->54 in 63.7931 seconds
+126->54 in 93.9569 seconds
+126->54 in 93.9569 seconds
+126->54 in 93.9569 seconds
+126->OUT in 78.1517 seconds
+106->85 in 72.4612 seconds
+106->65 in 78.2457 seconds
+106->103 in 64.875 seconds
+179->57 in 106.349 seconds
+189->57 in 110.142 seconds
+78->57 in 73.5647 seconds
+106->78 in 74.9741 seconds
+66->57 in 68.6681 seconds
+66->57 in 68.6681 seconds
+114->57 in 85.2888 seconds
+106->114 in 73 seconds
+106->57 in 88.5388 seconds
+106->OUT in 86.8586 seconds
+171->OUT in 114.419 seconds
+42->OUT in 79.5983 seconds
+171->OUT in 114.419 seconds
+18->96 in 88 seconds
+189->106 in 94.6034 seconds
+189->106 in 94.6034 seconds
+18->106 in 95.0431 seconds
+18->20 in 63.25 seconds
+66->71 in 68.125 seconds
+189->66 in 107.974 seconds
+18->66 in 75.1724 seconds
+18->101 in 96.125 seconds
+18->OUT in 87.1845 seconds
+29->OUT in 85.0164 seconds
+33->OUT in 78.5164 seconds
+146->OUT in 91.7379 seconds
+53->163 in 102.556 seconds
+37->63 in 70.8362 seconds
+53->37 in 70.2931 seconds
+171->66 in 107.431 seconds
+171->66 in 107.431 seconds
+53->66 in 65.4181 seconds
+53->66 in 65.4181 seconds
+53->66 in 65.4181 seconds
+53->66 in 65.4181 seconds
+53->66 in 65.4181 seconds
+53->66 in 65.4181 seconds
+53->OUT in 77.4302 seconds
+81->OUT in 80.8974 seconds
+64->OUT in 75.2621 seconds
+110->OUT in 80.3586 seconds
+128->66 in 90.7069 seconds
+171->128 in 76.7241 seconds
+171->OUT in 114.419 seconds
+186->OUT in 113.337 seconds
+36->OUT in 74.1414 seconds
+84->OUT in 76.0224 seconds
+80->OUT in 82.5224 seconds
+110->OUT in 80.3586 seconds
+177->OUT in 104.669 seconds
+91->18 in 96.125 seconds
+91->103 in 63.7931 seconds
+91->66 in 80.9526 seconds
+91->63 in 76.0776 seconds
+91->71 in 89.0776 seconds
+91->53 in 83.1207 seconds
+91->OUT in 87.9405 seconds
+51->OUT in 80.6802 seconds
+157->OUT in 97.156 seconds
+59->84 in 80.9526 seconds
+59->OUT in 67.6802 seconds
+64->OUT in 75.2621 seconds
+113->59 in 80.4138 seconds
+50->59 in 74.625 seconds
+50->59 in 74.625 seconds
+50->59 in 74.625 seconds
+50->59 in 74.625 seconds
+50->59 in 74.625 seconds
+50->59 in 74.625 seconds
+50->59 in 74.625 seconds
+50->59 in 74.625 seconds
+50->59 in 74.625 seconds
+50->59 in 74.625 seconds
+152->59 in 110.211 seconds
+155->193 in 84.306 seconds
+152->155 in 64.875 seconds
+152->169 in 81.5948 seconds
+152->OUT in 105.281 seconds
+135->OUT in 86.3198 seconds
+186->OUT in 113.337 seconds
+92->29 in 89.0819 seconds
+92->85 in 71.9181 seconds
+92->53 in 81.4957 seconds
+92->OUT in 86.3155 seconds
+107->OUT in 85.2336 seconds
+170->OUT in 116.044 seconds
+39->OUT in 84.4733 seconds
+153->193 in 87.556 seconds
+153->OUT in 103.656 seconds
+135->159 in 84.306 seconds
+135->170 in 89.7241 seconds
+135->107 in 74.0862 seconds
+135->170 in 89.7241 seconds
+135->170 in 89.7241 seconds
+135->65 in 90.7069 seconds
+135->169 in 77.806 seconds
+135->160 in 82.681 seconds
+135->170 in 89.7241 seconds
+135->OUT in 86.3198 seconds
+39->OUT in 84.4733 seconds
+168->157 in 71.8448 seconds
+135->57 in 88 seconds
+112->135 in 69.2112 seconds
+113->135 in 70.8362 seconds
+113->135 in 70.8362 seconds
+168->135 in 76.181 seconds
+168->179 in 65.4181 seconds
+168->101 in 84.3103 seconds
+168->135 in 76.181 seconds
+168->OUT in 96.0009 seconds
+64->63 in 61.625 seconds
+180->63 in 113.931 seconds
+180->63 in 113.931 seconds
+64->63 in 61.625 seconds
+64->57 in 71.9181 seconds
+92->29 in 89.0819 seconds
+64->92 in 76.0776 seconds
+64->135 in 92.3319 seconds
+180->135 in 79.9741 seconds
+64->135 in 92.3319 seconds
+64->135 in 92.3319 seconds
+189->168 in 72.4612 seconds
+171->168 in 78.4181 seconds
+9->168 in 119.353 seconds
+9->168 in 119.353 seconds
+9->168 in 119.353 seconds
+64->168 in 108.513 seconds
+64->OUT in 75.2621 seconds
+112->168 in 82.1422 seconds
+112->64 in 86.3707 seconds
+112->64 in 86.3707 seconds
+112->64 in 86.3707 seconds
+112->64 in 86.3707 seconds
+112->64 in 86.3707 seconds
+112->OUT in 77.1086 seconds
+202->156 in 81.5991 seconds
+36->33 in 64.875 seconds
+36->33 in 64.875 seconds
+146->33 in 101.004 seconds
+202->33 in 119.897 seconds
+202->33 in 119.897 seconds
+202->16 in 131.815 seconds
+180->170 in 76.25 seconds
+180->170 in 76.25 seconds
+202->170 in 80.5862 seconds
+202->OUT in 110.63 seconds
+203->OUT in 109.005 seconds
+144->OUT in 94.9879 seconds
+9->OUT in 86.1026 seconds
+183->OUT in 118.212 seconds
+97->152 in 87.0905 seconds
+97->152 in 87.0905 seconds
+113->152 in 89.7974 seconds
+113->OUT in 75.4836 seconds
+115->OUT in 95.5267 seconds
+177->OUT in 104.669 seconds
+39->OUT in 84.4733 seconds
+166->146 in 70.7629 seconds
+166->153 in 75.0948 seconds
+166->202 in 71.3793 seconds
+166->OUT in 99.2509 seconds
+115->92 in 69.2112 seconds
+115->92 in 69.2112 seconds
+115->92 in 69.2112 seconds
+115->113 in 80.0431 seconds
+115->112 in 78.4181 seconds
+115->112 in 78.4181 seconds
+115->171 in 82.1422 seconds
+183->112 in 101.103 seconds
+115->112 in 78.4181 seconds
+115->OUT in 95.5267 seconds
+164->OUT in 102.501 seconds
+36->OUT in 74.1414 seconds
+132->OUT in 91.1948 seconds
+173->OUT in 111.169 seconds
+144->30 in 99.3793 seconds
+144->112 in 77.8793 seconds
+144->18 in 103.172 seconds
+144->115 in 75.7112 seconds
+144->115 in 75.7112 seconds
+144->OUT in 94.9879 seconds
+1->OUT in 99.1026 seconds
+124->110 in 67.0431 seconds
+124->OUT in 80.9017 seconds
+75->OUT in 76.7595 seconds
+163->OUT in 104.126 seconds
+65->OUT in 73.6371 seconds
+147->OUT in 90.1129 seconds
+84->OUT in 76.0224 seconds
+163->18 in 112.31 seconds
+163->64 in 100.388 seconds
+163->OUT in 104.126 seconds
+147->113 in 74.6293 seconds
+147->OUT in 90.1129 seconds
+131->171 in 81.5991 seconds
+131->OUT in 92.8198 seconds
+91->OUT in 87.9405 seconds
+127->OUT in 99.3198 seconds
+181->OUT in 98.669 seconds
+103->OUT in 91.7336 seconds
+49->OUT in 83.9302 seconds
+25->144 in 107.504 seconds
+25->168 in 124.767 seconds
+25->157 in 112.922 seconds
+25->112 in 102.625 seconds
+25->112 in 102.625 seconds
+25->OUT in 91.5164 seconds
+84->61 in 77.1595 seconds
+84->115 in 79.5043 seconds
+84->OUT in 76.0224 seconds
+138->OUT in 81.9448 seconds
+201->OUT in 112.255 seconds
+177->127 in 88.0991 seconds
+177->202 in 69.2112 seconds
+177->202 in 69.2112 seconds
+36->153 in 117.797 seconds
+177->153 in 77.2629 seconds
+164->186 in 70.8362 seconds
+175->186 in 65.4181 seconds
+175->186 in 65.4181 seconds
+175->186 in 65.4181 seconds
+177->186 in 68.6681 seconds
+164->152 in 73.4698 seconds
+164->152 in 73.4698 seconds
+164->152 in 73.4698 seconds
+164->152 in 73.4698 seconds
+177->152 in 78.8879 seconds
+177->OUT in 104.669 seconds
+75->OUT in 76.7595 seconds
+75->OUT in 76.7595 seconds
+65->OUT in 73.6371 seconds
+191->OUT in 105.212 seconds
+5->29 in 67.5862 seconds
+65->53 in 63.7931 seconds
+65->53 in 63.7931 seconds
+65->53 in 63.7931 seconds
+1->53 in 81.6724 seconds
+1->53 in 81.6724 seconds
+1->53 in 81.6724 seconds
+1->53 in 81.6724 seconds
+5->53 in 75.1724 seconds
+5->OUT in 92.6026 seconds
+139->OUT in 103.113 seconds
+84->OUT in 76.0224 seconds
+141->OUT in 99.8629 seconds
+139->92 in 76.7974 seconds
+139->92 in 76.7974 seconds
+183->92 in 91.8966 seconds
+183->115 in 85.9353 seconds
+183->OUT in 118.212 seconds
+132->127 in 68.125 seconds
+132->127 in 68.125 seconds
+132->127 in 68.125 seconds
+132->177 in 79.9741 seconds
+132->OUT in 91.1948 seconds
+107->OUT in 85.2336 seconds
+51->OUT in 80.6802 seconds
+105->OUT in 88.4836 seconds
+107->173 in 85.9353 seconds
+107->OUT in 85.2336 seconds
+87->OUT in 71.1474 seconds
+51->OUT in 80.6802 seconds
+201->OUT in 112.255 seconds
+154->OUT in 102.031 seconds
+71->OUT in 63.8871 seconds
+68->OUT in 68.7621 seconds
+205->110 in 98.3966 seconds
+205->124 in 91.3534 seconds
+205->202 in 64.875 seconds
+205->OUT in 106.255 seconds
+189->OUT in 108.462 seconds
+147->OUT in 90.1129 seconds
+16->OUT in 90.4345 seconds
+147->177 in 74.556 seconds
+132->177 in 79.9741 seconds
+132->177 in 79.9741 seconds
+132->177 in 79.9741 seconds
+200->177 in 69.2112 seconds
+205->202 in 64.875 seconds
+204->202 in 63.25 seconds
+200->204 in 66.5 seconds
+132->107 in 69.2112 seconds
+125->107 in 73.5431 seconds
+200->125 in 94.6034 seconds
+200->153 in 83.2241 seconds
+200->153 in 83.2241 seconds
+200->153 in 83.2241 seconds
+200->150 in 88.6422 seconds
+119->107 in 63.7931 seconds
+200->119 in 91.3535 seconds
+200->OUT in 113.88 seconds
+16->OUT in 90.4345 seconds
+36->OUT in 74.1414 seconds
+51->OUT in 80.6802 seconds
+201->OUT in 112.255 seconds
+181->OUT in 98.669 seconds
+140->OUT in 101.488 seconds
+65->OUT in 73.6371 seconds
+122->OUT in 84.1517 seconds
+111->146 in 73.0043 seconds
+111->200 in 95.1465 seconds
+111->33 in 88 seconds
+111->OUT in 78.7336 seconds
+110->OUT in 80.3586 seconds
+103->OUT in 91.7336 seconds
+110->OUT in 80.3586 seconds
+110->OUT in 80.3586 seconds
+95->OUT in 81.4405 seconds
+137->36 in 97.2112 seconds
+137->200 in 90.8103 seconds
+137->200 in 90.8103 seconds
+137->142 in 75.1681 seconds
+137->OUT in 83.0698 seconds
+87->64 in 77.1595 seconds
+87->64 in 77.1595 seconds
+87->64 in 77.1595 seconds
+87->64 in 77.1595 seconds
+189->64 in 111.224 seconds
+66->64 in 63.25 seconds
+141->66 in 92.875 seconds
+84->113 in 75.7112 seconds
+122->113 in 68.6681 seconds
+122->113 in 68.6681 seconds
+187->113 in 96.2284 seconds
+141->187 in 81.5991 seconds
+141->OUT in 99.8629 seconds
+122->OUT in 84.1517 seconds
+159->OUT in 110.626 seconds
+181->71 in 102.556 seconds
+181->203 in 70.8362 seconds
+181->OUT in 98.669 seconds
+157->OUT in 97.156 seconds
+51->OUT in 80.6802 seconds
+51->33 in 77.3362 seconds
+111->33 in 88 seconds
+111->200 in 95.1465 seconds
+111->200 in 95.1465 seconds
+111->200 in 95.1465 seconds
+111->200 in 95.1465 seconds
+110->202 in 93.5216 seconds
+111->202 in 91.8966 seconds
+111->OUT in 78.7336 seconds
+157->OUT in 97.156 seconds
+103->OUT in 91.7336 seconds
+95->189 in 96.7716 seconds
+157->189 in 74.556 seconds
+191->163 in 74.0862 seconds
+5->163 in 117.728 seconds
+5->163 in 117.728 seconds
+5->163 in 117.728 seconds
+5->163 in 117.728 seconds
+5->163 in 117.728 seconds
+5->163 in 117.728 seconds
+78->163 in 92.2414 seconds
+157->78 in 88.5216 seconds
+132->122 in 67.0431 seconds
+95->122 in 72.4612 seconds
+87->122 in 73.0043 seconds
+84->122 in 74.6293 seconds
+84->122 in 74.6293 seconds
+68->122 in 80.4138 seconds
+75->122 in 83.6422 seconds
+157->122 in 73.0043 seconds
+157->122 in 73.0043 seconds
+157->189 in 74.556 seconds
+113->122 in 68.6681 seconds
+157->113 in 81.6724 seconds
+157->179 in 74.0129 seconds
+111->200 in 95.1465 seconds
+87->111 in 67.5862 seconds
+191->111 in 89.7284 seconds
+157->111 in 78.4224 seconds
+157->OUT in 97.156 seconds
+68->157 in 93.4181 seconds
+201->157 in 78.3491 seconds
+51->157 in 102.086 seconds
+201->157 in 78.3491 seconds
+201->157 in 78.3491 seconds
+201->50 in 122.06 seconds
+68->9 in 80.5905 seconds
+68->9 in 80.5905 seconds
+201->9 in 129.108 seconds
+201->157 in 78.3491 seconds
+201->157 in 78.3491 seconds
+201->157 in 78.3491 seconds
+201->OUT in 112.255 seconds
+48->OUT in 70.3483 seconds
+71->OUT in 63.8871 seconds
+103->OUT in 91.7336 seconds
+180->OUT in 99.794 seconds
+150->OUT in 85.7379 seconds
+6->OUT in 90.9776 seconds
+156->OUT in 98.781 seconds
+97->OUT in 78.1905 seconds
+173->OUT in 111.169 seconds
+28->OUT in 86.6414 seconds
+103->OUT in 91.7336 seconds
+144->OUT in 94.9879 seconds
+147->OUT in 90.1129 seconds
+198->OUT in 117.13 seconds
+185->OUT in 114.962 seconds
+95->OUT in 81.4405 seconds
+71->OUT in 63.8871 seconds
+118->OUT in 90.6517 seconds
+142->OUT in 98.2379 seconds
+165->OUT in 100.876 seconds
+134->OUT in 87.9448 seconds
+110->201 in 91.8966 seconds
+110->201 in 91.8966 seconds
+205->201 in 66.5 seconds
+205->201 in 66.5 seconds
+205->118 in 101.103 seconds
+198->115 in 94.6034 seconds
+205->115 in 105.978 seconds
+205->OUT in 106.255 seconds
+181->OUT in 98.669 seconds
+51->OUT in 80.6802 seconds
+173->OUT in 111.169 seconds
+71->OUT in 63.8871 seconds
+137->OUT in 83.0698 seconds
+191->205 in 67.0431 seconds
+191->183 in 73 seconds
+191->205 in 67.0431 seconds
+191->205 in 67.0431 seconds
+191->183 in 73 seconds
+191->49 in 123.142 seconds
+191->OUT in 105.212 seconds
+16->OUT in 90.4345 seconds
+166->OUT in 99.2509 seconds
+30->OUT in 83.3914 seconds
+154->OUT in 102.031 seconds
+87->OUT in 71.1474 seconds
+6->50 in 81.6724 seconds
+6->4 in 63.25 seconds
+6->51 in 80.0474 seconds
+6->51 in 80.0474 seconds
+6->193 in 133.44 seconds
+6->OUT in 90.9776 seconds
+28->181 in 125.31 seconds
+91->181 in 105.978 seconds
+91->OUT in 87.9405 seconds
+126->OUT in 78.1517 seconds
+159->OUT in 110.626 seconds
+12->105 in 110.211 seconds
+12->53 in 86.5474 seconds
+12->118 in 112.379 seconds
+12->1 in 77.875 seconds
+141->91 in 78.4224 seconds
+144->91 in 83.2974 seconds
+144->91 in 83.2974 seconds
+12->91 in 109.668 seconds
+95->9 in 98.2931 seconds
+12->9 in 64.875 seconds
+48->87 in 81.4957 seconds
+12->87 in 92.875 seconds
+12->138 in 103.172 seconds
+12->9 in 64.875 seconds
+12->OUT in 81.7276 seconds
+139->OUT in 103.113 seconds
+185->OUT in 114.962 seconds
+131->OUT in 92.8198 seconds
+89->OUT in 67.8974 seconds
+89->12 in 89.625 seconds
+89->12 in 89.625 seconds
+131->12 in 114.547 seconds
+131->12 in 114.547 seconds
+48->12 in 71.3793 seconds
+48->OUT in 70.3483 seconds
+148->OUT in 88.4879 seconds
+134->200 in 85.9353 seconds
+134->200 in 85.9353 seconds
+166->200 in 74.6293 seconds
+141->166 in 78.8879 seconds
+141->166 in 78.8879 seconds
+141->166 in 78.8879 seconds
+144->166 in 74.0129 seconds
+144->OUT in 94.9879 seconds
+156->OUT in 98.781 seconds
+179->OUT in 101.419 seconds
+30->144 in 99.3793 seconds
+30->12 in 77.3362 seconds
+30->168 in 116.642 seconds
+30->12 in 77.3362 seconds
+30->OUT in 83.3914 seconds
+150->OUT in 85.7379 seconds
+142->OUT in 98.2379 seconds
+151->OUT in 106.906 seconds
+85->OUT in 74.3974 seconds
+61->OUT in 80.1371 seconds
+149->OUT in 86.8629 seconds
+103->OUT in 91.7336 seconds
+61->OUT in 80.1371 seconds
+131->111 in 74.0862 seconds
+147->157 in 67.0431 seconds
+147->157 in 67.0431 seconds
+147->157 in 67.0431 seconds
+131->157 in 70.8362 seconds
+149->111 in 74.6293 seconds
+149->111 in 74.6293 seconds
+149->111 in 74.6293 seconds
+149->111 in 74.6293 seconds
+149->111 in 74.6293 seconds
+149->111 in 74.6293 seconds
+149->111 in 74.6293 seconds
+131->111 in 74.0862 seconds
+149->87 in 82.2155 seconds
+131->87 in 81.6724 seconds
+131->OUT in 92.8198 seconds
+36->OUT in 74.1414 seconds
+130->OUT in 94.4448 seconds
+61->131 in 90.7069 seconds
+154->131 in 69.2112 seconds
+139->131 in 70.2931 seconds
+180->131 in 86.4741 seconds
+16->131 in 101.004 seconds
+173->131 in 78.3491 seconds
+127->131 in 66.5 seconds
+173->127 in 81.5991 seconds
+173->OUT in 111.169 seconds
+171->OUT in 114.419 seconds
+171->OUT in 114.419 seconds
+110->OUT in 80.3586 seconds
+141->OUT in 99.8629 seconds
+36->OUT in 74.1414 seconds
+61->97 in 82.5776 seconds
+89->36 in 82.0388 seconds
+89->36 in 82.0388 seconds
+147->36 in 104.254 seconds
+61->36 in 89.2543 seconds
+61->36 in 89.2543 seconds
+61->36 in 89.2543 seconds
+61->84 in 77.1595 seconds
+61->OUT in 80.1371 seconds
+171->OUT in 114.419 seconds
+39->OUT in 84.4733 seconds
+68->OUT in 68.7621 seconds
+179->OUT in 101.419 seconds
+185->163 in 70.8362 seconds
+185->OUT in 114.962 seconds
+14->OUT in 93.6845 seconds
+139->141 in 63.25 seconds
+139->115 in 67.5862 seconds
+139->115 in 67.5862 seconds
+139->141 in 63.25 seconds
+139->OUT in 103.113 seconds
+175->OUT in 107.919 seconds
+185->OUT in 114.962 seconds
+17->OUT in 88.8095 seconds
+195->OUT in 122.005 seconds
+11->OUT in 82.8526 seconds
+179->OUT in 101.419 seconds
+25->OUT in 91.5164 seconds
+156->OUT in 98.781 seconds
+103->OUT in 91.7336 seconds
+16->14 in 63.25 seconds
+16->OUT in 90.4345 seconds
+146->OUT in 91.7379 seconds
+146->OUT in 91.7379 seconds
+150->142 in 73 seconds
+150->142 in 73 seconds
+150->142 in 73 seconds
+150->142 in 73 seconds
+150->OUT in 85.7379 seconds
+18->OUT in 87.1845 seconds
+84->OUT in 76.0224 seconds
+160->OUT in 109.001 seconds
+151->OUT in 106.906 seconds
+69->OUT in 67.1371 seconds
+67->OUT in 70.3871 seconds
+84->OUT in 76.0224 seconds
+189->OUT in 108.462 seconds
+18->OUT in 87.1845 seconds
+159->141 in 70.7629 seconds
+159->141 in 70.7629 seconds
+159->141 in 70.7629 seconds
+151->141 in 67.0431 seconds
+151->17 in 113.466 seconds
+151->141 in 67.0431 seconds
+151->141 in 67.0431 seconds
+151->141 in 67.0431 seconds
+151->OUT in 106.906 seconds
+28->OUT in 86.6414 seconds
+136->OUT in 84.6948 seconds
+189->OUT in 108.462 seconds
+148->OUT in 88.4879 seconds
+18->OUT in 87.1845 seconds
+99->OUT in 74.9405 seconds
+11->6 in 68.125 seconds
+11->6 in 68.125 seconds
+11->36 in 69.2112 seconds
+11->6 in 68.125 seconds
+11->6 in 68.125 seconds
+11->39 in 84.3793 seconds
+11->36 in 69.2112 seconds
+11->OUT in 82.8526 seconds
+96->OUT in 79.8155 seconds
+147->OUT in 90.1129 seconds
+160->OUT in 109.001 seconds
+198->OUT in 117.13 seconds
+103->91 in 63.7931 seconds
+103->91 in 63.7931 seconds
+103->91 in 63.7931 seconds
+103->91 in 63.7931 seconds
+96->91 in 68.125 seconds
+96->105 in 68.6681 seconds
+96->OUT in 79.8155 seconds
+81->OUT in 80.8974 seconds
+145->OUT in 93.3629 seconds
+34->OUT in 76.8914 seconds
+48->OUT in 70.3483 seconds
+148->OUT in 88.4879 seconds
+137->147 in 67.0431 seconds
+137->OUT in 83.0698 seconds
+103->OUT in 91.7336 seconds
+4->OUT in 94.2276 seconds
+42->OUT in 79.5983 seconds
+145->OUT in 93.3629 seconds
+15->OUT in 92.0595 seconds
+85->OUT in 74.3974 seconds
+203->OUT in 109.005 seconds
+24->OUT in 77.9345 seconds
+171->166 in 75.1681 seconds
+203->166 in 73.0043 seconds
+203->166 in 73.0043 seconds
+203->OUT in 109.005 seconds
+14->OUT in 93.6845 seconds
+118->OUT in 90.6517 seconds
+28->30 in 63.25 seconds
+28->30 in 63.25 seconds
+28->30 in 63.25 seconds
+28->30 in 63.25 seconds
+18->30 in 63.7931 seconds
+34->30 in 66.5 seconds
+34->48 in 67.0431 seconds
+34->48 in 67.0431 seconds
+34->11 in 69.2112 seconds
+34->171 in 125.31 seconds
+18->12 in 73.5431 seconds
+18->12 in 73.5431 seconds
+34->12 in 70.8362 seconds
+34->61 in 86.0043 seconds
+34->61 in 86.0043 seconds
+34->136 in 95.5862 seconds
+34->103 in 102.625 seconds
+34->OUT in 76.8914 seconds
+143->OUT in 96.6129 seconds
+89->OUT in 67.8974 seconds
+4->OUT in 94.2276 seconds
+109->OUT in 81.9836 seconds
+160->OUT in 109.001 seconds
+24->131 in 110.754 seconds
+130->131 in 61.625 seconds
+130->131 in 61.625 seconds
+130->131 in 61.625 seconds
+148->131 in 71.9181 seconds
+148->24 in 106.422 seconds
+145->124 in 72.4612 seconds
+148->124 in 67.5862 seconds
+130->175 in 79.9741 seconds
+148->175 in 79.431 seconds
+148->156 in 70.2931 seconds
+148->156 in 70.2931 seconds
+148->OUT in 88.4879 seconds
+197->OUT in 118.755 seconds
+123->OUT in 82.5267 seconds
+118->OUT in 90.6517 seconds
+165->OUT in 100.876 seconds
+1->OUT in 99.1026 seconds
+75->OUT in 76.7595 seconds
+96->OUT in 79.8155 seconds
+130->OUT in 94.4448 seconds
+144->OUT in 94.9879 seconds
+89->68 in 73.9095 seconds
+179->68 in 104.181 seconds
+195->68 in 118.267 seconds
+67->68 in 61.625 seconds
+67->68 in 61.625 seconds
+67->68 in 61.625 seconds
+67->OUT in 70.3871 seconds
+193->OUT in 102.462 seconds
+14->34 in 76.7931 seconds
+14->15 in 61.625 seconds
+150->39 in 110.211 seconds
+150->39 in 110.211 seconds
+14->39 in 69.2112 seconds
+14->OUT in 93.6845 seconds
+67->OUT in 70.3871 seconds
+104->OUT in 90.1086 seconds
+1->OUT in 99.1026 seconds
+17->OUT in 88.8095 seconds
+133->OUT in 89.5698 seconds
+165->177 in 63.7931 seconds
+165->147 in 70.7629 seconds
+165->46 in 107.974 seconds
+165->147 in 70.7629 seconds
+165->147 in 70.7629 seconds
+165->142 in 75.6379 seconds
+165->OUT in 100.876 seconds
+23->OUT in 79.0595 seconds
+17->OUT in 88.8095 seconds
+67->68 in 61.625 seconds
+67->68 in 61.625 seconds
+17->68 in 80.0474 seconds
+67->75 in 71.3966 seconds
+17->75 in 83.319 seconds
+17->16 in 61.625 seconds
+17->OUT in 88.8095 seconds
+3->OUT in 95.8526 seconds
+71->61 in 76.25 seconds
+71->91 in 89.0776 seconds
+71->OUT in 63.8871 seconds
+49->OUT in 83.9302 seconds
+158->OUT in 112.251 seconds
+99->OUT in 74.9405 seconds
+189->OUT in 108.462 seconds
+189->87 in 97.3147 seconds
+67->87 in 72.2845 seconds
+67->87 in 72.2845 seconds
+67->OUT in 70.3871 seconds
+151->141 in 67.0431 seconds
+118->141 in 69.2112 seconds
+145->141 in 66.5 seconds
+118->92 in 70.8362 seconds
+99->92 in 71.375 seconds
+145->92 in 83.2974 seconds
+145->OUT in 93.3629 seconds
+2->OUT in 97.4776 seconds
+8->OUT in 87.7276 seconds
+123->OUT in 82.5267 seconds
+193->OUT in 102.462 seconds
+139->OUT in 103.113 seconds
+104->OUT in 90.1086 seconds
+38->OUT in 86.0983 seconds
+109->OUT in 81.9836 seconds
+5->OUT in 92.6026 seconds
+85->67 in 69.0345 seconds
+118->67 in 85.2888 seconds
+99->67 in 76.0776 seconds
+99->OUT in 74.9405 seconds
+180->OUT in 99.794 seconds
+179->OUT in 101.419 seconds
+89->OUT in 67.8974 seconds
+50->OUT in 82.3052 seconds
+154->OUT in 102.031 seconds
+49->OUT in 83.9302 seconds
+181->OUT in 98.669 seconds
+134->OUT in 87.9448 seconds
+189->143 in 81.5991 seconds
+189->87 in 97.3147 seconds
+189->OUT in 108.462 seconds
+72->OUT in 62.7621 seconds
+146->OUT in 91.7379 seconds
+85->65 in 72.2845 seconds
+85->65 in 72.2845 seconds
+85->65 in 72.2845 seconds
+85->166 in 91.3534 seconds
+85->OUT in 74.3974 seconds
+109->OUT in 81.9836 seconds
+101->OUT in 71.6905 seconds
+37->OUT in 87.7233 seconds
+171->OUT in 114.419 seconds
+165->189 in 67.5862 seconds
+165->4 in 122.603 seconds
+165->OUT in 100.876 seconds
+181->OUT in 98.669 seconds
+29->OUT in 85.0164 seconds
+123->OUT in 82.5267 seconds
+143->OUT in 96.6129 seconds
+94->OUT in 83.0655 seconds
+142->OUT in 98.2379 seconds
+196->OUT in 120.38 seconds
+181->OUT in 98.669 seconds
+195->OUT in 122.005 seconds
+149->49 in 108.043 seconds
+149->OUT in 86.8629 seconds
+143->165 in 74.0129 seconds
+143->181 in 84.306 seconds
+143->165 in 74.0129 seconds
+143->149 in 69.75 seconds
+143->181 in 84.306 seconds
+143->OUT in 96.6129 seconds
+144->OUT in 94.9879 seconds
+138->OUT in 81.9448 seconds
+74->OUT in 78.3845 seconds
+105->OUT in 88.4836 seconds
+95->OUT in 81.4405 seconds
+172->OUT in 112.794 seconds
+142->OUT in 98.2379 seconds
+50->OUT in 82.3052 seconds
+151->115 in 71.3793 seconds
+118->115 in 64.875 seconds
+118->OUT in 90.6517 seconds
+150->OUT in 85.7379 seconds
+172->183 in 65.4181 seconds
+172->OUT in 112.794 seconds
+46->OUT in 73.0983 seconds
+159->OUT in 110.626 seconds
+160->OUT in 109.001 seconds
+171->OUT in 114.419 seconds
+138->OUT in 81.9448 seconds
+104->130 in 70.8362 seconds
+104->130 in 70.8362 seconds
+104->130 in 70.8362 seconds
+104->OUT in 90.1086 seconds
+168->OUT in 96.0009 seconds
+140->OUT in 101.488 seconds
+26->OUT in 89.8914 seconds
+164->OUT in 102.501 seconds
+46->OUT in 73.0983 seconds
+63->OUT in 76.8871 seconds
+96->OUT in 79.8155 seconds
+14->OUT in 93.6845 seconds
+133->OUT in 89.5698 seconds
+105->OUT in 88.4836 seconds
+72->16 in 88.1724 seconds
+72->16 in 88.1724 seconds
+14->16 in 63.25 seconds
+14->16 in 63.25 seconds
+14->16 in 63.25 seconds
+14->16 in 63.25 seconds
+14->OUT in 93.6845 seconds
+105->103 in 63.25 seconds
+105->103 in 63.25 seconds
+105->103 in 63.25 seconds
+105->103 in 63.25 seconds
+105->OUT in 88.4836 seconds
+41->OUT in 81.2233 seconds
+32->OUT in 80.1414 seconds
+14->OUT in 93.6845 seconds
+96->OUT in 79.8155 seconds
+132->OUT in 91.1948 seconds
+177->OUT in 104.669 seconds
+196->OUT in 120.38 seconds
+101->OUT in 71.6905 seconds
+96->OUT in 79.8155 seconds
+63->OUT in 76.8871 seconds
+101->OUT in 71.6905 seconds
+50->OUT in 82.3052 seconds
+190->OUT in 106.837 seconds
+63->OUT in 76.8871 seconds
+168->OUT in 96.0009 seconds
+24->OUT in 77.9345 seconds
+24->8 in 70.2931 seconds
+24->36 in 63.7931 seconds
+24->36 in 63.7931 seconds
+24->36 in 63.7931 seconds
+24->36 in 63.7931 seconds
+24->14 in 76.25 seconds
+24->OUT in 77.9345 seconds
+101->OUT in 71.6905 seconds
+174->OUT in 109.544 seconds
+72->OUT in 62.7621 seconds
+15->OUT in 92.0595 seconds
+38->OUT in 86.0983 seconds
+72->OUT in 62.7621 seconds
+177->OUT in 104.669 seconds
+18->OUT in 87.1845 seconds
+46->OUT in 73.0983 seconds
+106->OUT in 86.8586 seconds
+72->OUT in 62.7621 seconds
+69->OUT in 67.1371 seconds
+61->OUT in 80.1371 seconds
+134->OUT in 87.9448 seconds
+174->OUT in 109.544 seconds
+84->OUT in 76.0224 seconds
+4->OUT in 94.2276 seconds
+28->OUT in 86.6414 seconds
+128->OUT in 97.6948 seconds
+63->OUT in 76.8871 seconds
+112->OUT in 77.1086 seconds
+123->OUT in 82.5267 seconds
+151->OUT in 106.906 seconds
+118->128 in 67.0431 seconds
+118->132 in 67.0431 seconds
+118->OUT in 90.6517 seconds
+135->OUT in 86.3198 seconds
+4->OUT in 94.2276 seconds
+49->OUT in 83.9302 seconds
+9->OUT in 86.1026 seconds
+160->OUT in 109.001 seconds
+48->OUT in 70.3483 seconds
+120->OUT in 87.4017 seconds
+120->OUT in 87.4017 seconds
+168->OUT in 96.0009 seconds
+49->50 in 61.625 seconds
+49->37 in 63.7931 seconds
+49->50 in 61.625 seconds
+49->50 in 61.625 seconds
+49->OUT in 83.9302 seconds
+79->OUT in 84.1474 seconds
+4->3 in 61.625 seconds
+4->3 in 61.625 seconds
+4->3 in 61.625 seconds
+4->3 in 61.625 seconds
+4->3 in 61.625 seconds
+4->3 in 61.625 seconds
+4->OUT in 94.2276 seconds
+174->OUT in 109.544 seconds
+69->OUT in 67.1371 seconds
+38->OUT in 86.0983 seconds

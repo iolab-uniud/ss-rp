@@ -1,0 +1,144 @@
+Order[1]: Slab 234
+Order[2]: Slab 126
+Order[3]: Slab 144
+Order[4]: Slab 36
+Order[5]: Slab 72
+Order[6]: Slab 342
+Order[7]: Slab 216
+Order[8]: Slab 143
+Order[9]: Slab 90
+Order[10]: Slab 125
+Order[11]: Slab 142
+Order[12]: Slab 270
+Order[13]: Slab 233
+Order[14]: Slab 215
+Order[15]: Slab 124
+Order[16]: Slab 71
+Order[17]: Slab 288
+Order[18]: Slab 18
+Order[19]: Slab 70
+Order[20]: Slab 17
+Order[21]: Slab 269
+Order[22]: Slab 54
+Order[23]: Slab 360
+Order[24]: Slab 268
+Order[25]: Slab 198
+Order[26]: Slab 287
+Order[27]: Slab 306
+Order[28]: Slab 232
+Order[29]: Slab 359
+Order[30]: Slab 141
+Order[31]: Slab 108
+Order[32]: Slab 305
+Order[33]: Slab 123
+Order[34]: Slab 358
+Order[35]: Slab 122
+Order[36]: Slab 180
+Order[37]: Slab 69
+Order[38]: Slab 267
+Order[39]: Slab 53
+Order[40]: Slab 286
+Order[41]: Slab 304
+Order[42]: Slab 197
+Order[43]: Slab 35
+Order[44]: Slab 34
+Order[45]: Slab 324
+Order[46]: Slab 231
+Order[47]: Slab 68
+Order[48]: Slab 285
+Order[49]: Slab 33
+Order[50]: Slab 179
+Order[51]: Slab 303
+Order[52]: Slab 341
+Order[53]: Slab 323
+Order[54]: Slab 284
+Order[55]: Slab 52
+Order[56]: Slab 107
+Order[57]: Slab 266
+Order[58]: Slab 162
+Order[59]: Slab 265
+Order[60]: Slab 230
+Order[61]: Slab 302
+Order[62]: Slab 89
+Order[63]: Slab 51
+Order[64]: Slab 214
+Order[65]: Slab 213
+Order[66]: Slab 106
+Order[67]: Slab 229
+Order[68]: Slab 161
+Order[69]: Slab 212
+Order[70]: Slab 105
+Order[71]: Slab 252
+Order[72]: Slab 160
+13->OUT
+7->OUT
+8->OUT
+2->OUT
+4->OUT
+19->OUT
+12->OUT
+8->OUT
+5->OUT
+7->OUT
+8->OUT
+15->OUT
+13->OUT
+12->OUT
+7->OUT
+4->OUT
+16->OUT
+1->OUT
+4->OUT
+1->OUT
+15->OUT
+3->OUT
+20->OUT
+15->OUT
+11->OUT
+16->OUT
+17->OUT
+13->OUT
+20->OUT
+8->OUT
+6->OUT
+17->OUT
+7->OUT
+20->OUT
+7->OUT
+10->OUT
+4->OUT
+15->OUT
+3->OUT
+16->OUT
+17->OUT
+11->OUT
+2->OUT
+2->OUT
+18->OUT
+13->OUT
+4->OUT
+16->OUT
+2->OUT
+10->OUT
+17->OUT
+19->OUT
+18->OUT
+16->OUT
+3->OUT
+6->OUT
+15->OUT
+9->OUT
+15->OUT
+13->OUT
+17->OUT
+5->OUT
+3->OUT
+12->OUT
+12->OUT
+6->OUT
+13->OUT
+9->OUT
+12->OUT
+6->OUT
+14->OUT
+9->OUT

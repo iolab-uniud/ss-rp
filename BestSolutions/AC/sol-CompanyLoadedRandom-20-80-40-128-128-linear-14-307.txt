@@ -1,0 +1,435 @@
+Order[1]: Slab 59
+Order[2]: Slab 539
+Order[3]: Slab 151
+Order[4]: Slab 606
+Order[5]: Slab 536
+Order[6]: Slab 30
+Order[7]: Slab 475
+Order[8]: Slab 58
+Order[9]: Slab 468
+Order[10]: Slab 191
+Order[11]: Slab 94
+Order[12]: Slab 188
+Order[13]: Slab 532
+Order[14]: Slab 123
+Order[15]: Slab 352
+Order[16]: Slab 464
+Order[17]: Slab 480
+Order[18]: Slab 184
+Order[19]: Slab 181
+Order[20]: Slab 28
+Order[21]: Slab 350
+Order[22]: Slab 599
+Order[23]: Slab 180
+Order[24]: Slab 18
+Order[25]: Slab 81
+Order[26]: Slab 148
+Order[27]: Slab 117
+Order[28]: Slab 15
+Order[29]: Slab 313
+Order[30]: Slab 345
+Order[31]: Slab 312
+Order[32]: Slab 512
+Order[33]: Slab 57
+Order[34]: Slab 530
+Order[35]: Slab 463
+Order[36]: Slab 456
+Order[37]: Slab 525
+Order[38]: Slab 179
+Order[39]: Slab 466
+Order[40]: Slab 169
+Order[41]: Slab 511
+Order[42]: Slab 603
+Order[43]: Slab 523
+Order[44]: Slab 316
+Order[45]: Slab 167
+Order[46]: Slab 477
+Order[47]: Slab 348
+Order[48]: Slab 56
+Order[49]: Slab 53
+Order[50]: Slab 185
+Order[51]: Slab 13
+Order[52]: Slab 171
+Order[53]: Slab 341
+Order[54]: Slab 510
+Order[55]: Slab 309
+Order[56]: Slab 145
+Order[57]: Slab 308
+Order[58]: Slab 93
+Order[59]: Slab 256
+Order[60]: Slab 307
+Order[61]: Slab 12
+Order[62]: Slab 415
+Order[63]: Slab 143
+Order[64]: Slab 384
+Order[65]: Slab 305
+Order[66]: Slab 605
+Order[67]: Slab 476
+Order[68]: Slab 121
+Order[69]: Slab 337
+Order[70]: Slab 522
+Order[71]: Slab 165
+Order[72]: Slab 303
+Order[73]: Slab 132
+Order[74]: Slab 61
+Order[75]: Slab 535
+Order[76]: Slab 531
+Order[77]: Slab 26
+Order[78]: Slab 509
+Order[79]: Slab 544
+Order[80]: Slab 413
+Order[81]: Slab 16
+Order[82]: Slab 334
+Order[83]: Slab 175
+Order[84]: Slab 11
+Order[85]: Slab 454
+Order[86]: Slab 521
+Order[87]: Slab 412
+Order[88]: Slab 330
+Order[89]: Slab 87
+Order[90]: Slab 177
+Order[91]: Slab 52
+Order[92]: Slab 453
+Order[93]: Slab 479
+Order[94]: Slab 600
+Order[95]: Slab 255
+Order[96]: Slab 469
+Order[97]: Slab 329
+Order[98]: Slab 342
+Order[99]: Slab 10
+Order[100]: Slab 408
+Order[101]: Slab 508
+Order[102]: Slab 89
+Order[103]: Slab 383
+Order[104]: Slab 326
+Order[105]: Slab 80
+Order[106]: Slab 517
+Order[107]: Slab 331
+Order[108]: Slab 170
+Order[109]: Slab 404
+Order[110]: Slab 473
+Order[111]: Slab 576
+Order[112]: Slab 85
+Order[113]: Slab 78
+Order[114]: Slab 314
+Order[115]: Slab 411
+Order[116]: Slab 77
+Order[117]: Slab 601
+Order[118]: Slab 318
+Order[119]: Slab 325
+Order[120]: Slab 75
+Order[121]: Slab 299
+Order[122]: Slab 298
+Order[123]: Slab 192
+Order[124]: Slab 465
+Order[125]: Slab 317
+Order[126]: Slab 516
+Order[127]: Slab 458
+Order[128]: Slab 541
+13->14
+3->14
+3->14
+1->14
+1->14
+4->14
+4->14
+4->14
+4->14
+4->14
+19->14
+19->14
+5->14
+5->14
+5->14
+5->14
+5->14
+5->14
+5->14
+5->14
+5->14
+10->14
+10->14
+2->14
+2->14
+2->14
+17->18
+2->18
+17->14
+17->14
+2->14
+2->OUT
+17->14
+17->20
+17->OUT
+5->OUT
+19->OUT
+5->20
+5->20
+17->20
+17->20
+17->OUT
+1->OUT
+15->1
+6->14
+10->14
+15->14
+15->20
+15->8
+15->18
+15->OUT
+2->OUT
+15->20
+10->20
+15->20
+15->7
+15->7
+15->7
+15->20
+15->OUT
+6->OUT
+3->OUT
+15->7
+6->7
+6->7
+6->OUT
+17->14
+6->7
+6->7
+17->7
+17->7
+17->OUT
+4->OUT
+11->OUT
+10->8
+15->8
+10->7
+4->7
+11->7
+15->7
+15->OUT
+1->OUT
+3->13
+6->13
+6->OUT
+3->9
+3->9
+3->9
+1->9
+6->9
+6->9
+6->OUT
+1->OUT
+11->OUT
+19->18
+11->9
+1->9
+19->9
+11->13
+19->13
+11->9
+11->9
+19->9
+19->7
+19->20
+19->OUT
+6->OUT
+1->20
+1->9
+1->9
+1->9
+1->9
+1->9
+1->9
+1->9
+1->OUT
+10->7
+3->7
+1->9
+3->9
+3->7
+3->9
+3->9
+3->19
+3->19
+3->19
+3->OUT
+5->OUT
+4->14
+5->19
+5->19
+4->19
+4->19
+4->19
+4->OUT
+1->7
+1->OUT
+10->OUT
+11->OUT
+10->OUT
+16->OUT
+2->OUT
+17->20
+17->OUT
+15->OUT
+1->4
+17->4
+17->4
+17->4
+17->4
+10->4
+10->4
+11->4
+11->4
+15->4
+15->4
+15->4
+15->4
+15->4
+15->19
+15->OUT
+17->OUT
+6->OUT
+8->OUT
+17->19
+15->19
+6->19
+11->3
+6->3
+6->19
+6->15
+6->19
+6->19
+6->19
+6->11
+6->9
+6->OUT
+16->OUT
+13->OUT
+17->OUT
+8->OUT
+6->19
+6->OUT
+8->OUT
+13->OUT
+2->OUT
+6->19
+2->19
+2->19
+2->OUT
+13->OUT
+1->OUT
+11->OUT
+11->OUT
+16->OUT
+10->OUT
+5->OUT
+10->OUT
+13->OUT
+8->OUT
+10->OUT
+1->OUT
+13->OUT
+10->19
+13->19
+11->19
+11->19
+11->19
+5->19
+5->OUT
+12->OUT
+10->OUT
+18->OUT
+18->OUT
+14->OUT
+11->OUT
+17->OUT
+6->OUT
+5->6
+5->6
+5->6
+5->6
+5->6
+5->6
+5->6
+5->6
+5->6
+5->6
+11->6
+11->6
+10->6
+10->OUT
+5->OUT
+18->OUT
+14->OUT
+20->OUT
+20->OUT
+16->OUT
+18->OUT
+13->OUT
+7->OUT
+11->OUT
+15->OUT
+1->OUT
+15->OUT
+17->OUT
+13->OUT
+17->6
+17->6
+17->6
+10->6
+10->6
+10->6
+11->6
+11->6
+11->9
+11->OUT
+7->OUT
+3->OUT
+2->OUT
+15->OUT
+14->OUT
+20->OUT
+8->OUT
+20->OUT
+11->OUT
+3->OUT
+1->OUT
+13->14
+11->15
+11->15
+13->15
+13->15
+13->OUT
+16->OUT
+7->OUT
+12->OUT
+11->OUT
+3->OUT
+17->OUT
+9->OUT
+9->OUT
+3->15
+13->15
+13->15
+13->15
+13->OUT
+20->OUT
+18->OUT
+9->OUT
+3->OUT
+7->OUT
+14->OUT
+3->OUT
+7->OUT
+14->OUT
+11->OUT
+3->2
+3->OUT
+10->OUT
+10->OUT
+14->OUT
+7->OUT
+20->OUT
+17->OUT
+4->OUT
+14->OUT

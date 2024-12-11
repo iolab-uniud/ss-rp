@@ -1,0 +1,39 @@
+Order[1]: Slab 90
+Order[2]: Slab 15
+Order[3]: Slab 78
+Order[4]: Slab 86
+Order[5]: Slab 24
+Order[6]: Slab 23
+Order[7]: Slab 14
+Order[8]: Slab 22
+Order[9]: Slab 29
+Order[10]: Slab 85
+Order[11]: Slab 28
+Order[12]: Slab 84
+Order[13]: Slab 21
+Order[14]: Slab 45
+Order[15]: Slab 27
+Order[16]: Slab 30
+Order[17]: Slab 34
+Order[18]: Slab 50
+20->OUT
+3->OUT
+17->OUT
+19->OUT
+7->4
+5->4
+5->OUT
+5->OUT
+3->OUT
+5->OUT
+6->7
+6->OUT
+19->OUT
+6->OUT
+19->OUT
+5->OUT
+9->OUT
+6->OUT
+7->OUT
+7->OUT
+10->OUT
